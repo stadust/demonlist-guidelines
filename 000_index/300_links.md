@@ -2,7 +2,7 @@
 
 # Section Links
 
-These guidelines are split into two main sections: one that coveres **level placements** and one that coveres **record management**. Although each section of these guidelines is located in the table of contents to the right, we understand that the list is quite long, so a list of links to the important sections could be helpful.
+These guidelines are split into two main sections: one that covers **level placements** and one that coveres **record management**. Although each section of these guidelines is located in the table of contents to the right, we understand that the list is quite long, so a list of links to the important sections could be helpful.
 
 ## Level Placements
 
