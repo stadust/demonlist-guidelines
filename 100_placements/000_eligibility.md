@@ -1,3 +1,4 @@
+% placements
 
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
