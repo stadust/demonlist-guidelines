@@ -18,6 +18,8 @@ Changes listed here are ordered from most recent to least recent. **Current vers
 
 - Clarified that if a list demon has a strong LDM built into the level, the list team will primarily consider opinions from those that use it, because it would represent the easiest "official" version of the level.
 
+- Added a guideline that includes a public confession as part of the procedure to turn an indefinite ban into a temporary ban.
+
 ## Changes from v1.3 to v1.4 (10/29/2020):
 
 - Added guidelines for [creator lists] and verifiers for list demons, including the various definitions of a “creator” and special privileges for megacollab hosts.
