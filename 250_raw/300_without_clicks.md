@@ -1,6 +1,6 @@
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
-# Raw Footage Without Clicks
+# Raw Footage Without Clicks{id=rawnoclicks}
 
 For records *without* audible clicks, it is __strongly recommended__ to include raw footage with a handcam or liveplay of the session. Failure to follow this guideline significantly increases the likelihood of a rejected record [due to high suspicion](/guidelines/ucs). 
 
