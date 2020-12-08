@@ -12,3 +12,4 @@ In addition, a qualifying part for the creator list must serve as a reasonable r
 
 Some list demons are “megacollabs” with a designated host. If the original verifier of a list demon megacollab is removed from the stats viewer, the host of the collab has the right to change the verifier as if the level had not been released yet. A corresponding legitimate completion will be counted as a verification on the level's webpage.
 
+</div>
