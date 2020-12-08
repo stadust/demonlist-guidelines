@@ -1,6 +1,6 @@
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
-# Key Takeaways for Players
+# Key Takeaways for Players{id=takeaways}
 
 This section of the guidelines simplifies the most important points for players to know before playing a list demon or submitting a record. **Players are responsible for keeping each of these points in mind whenever they are applicable!** 
 
