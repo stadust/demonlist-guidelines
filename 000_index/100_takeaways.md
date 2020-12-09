@@ -18,7 +18,7 @@ Please note that if there is ever a conflict between these points and the full g
 
 ## Raw Footage
 
-- Raw Footage is **required** for all records without clicks and **strongly encouraged** for all first submissions to the list. Raw footage is defined as the unedited recording of the session, either from a recording software or a livestream. Players **must** provide raw footage in the 'Notes' section of the submission form or in the video description. ***We will seldom reach out to you if we need raw footage and you did not provide it to us!*** <More Details>
+- Raw Footage is **required** for all records without clicks and **strongly encouraged** for all first submissions to the list. Raw footage is defined as the unedited recording of the session, either from a recording software or a livestream. Players that wish to submit raw footage **must** provide it in the 'Notes' section of the submission form or in the video description. ***We will seldom reach out to you if we need raw footage and you did not provide it to us!*** <More Details>
 
 - Records on mobile devices have <slightly different> raw footage guidelines due to natural limitations of the device.
 
