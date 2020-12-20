@@ -1,6 +1,6 @@
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
-# Timing of List Placements
+# Timing of Placements
 
 The list team strives to place list-worthy levels as efficiently as possible; we want to place them accurately without sacrificing too much time gathering opinions. In general, a level will not be placed within one week of getting rated in-game unless it has at least three victors with reliable and consistent opinions. If there is strong variation between existing opinions, the team will likely wait longer than one week to determine an accurate consensus. **The only exception to this guideline is if the level is widely regarded as the hardest demon in the game; we'll likely place it at #1 soon after it gets rated.**
 
