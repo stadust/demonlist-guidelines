@@ -2,7 +2,7 @@
 
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
-# Existing Low Detail Modes{id=existing-ldms}
+# Existing LDMs{id=existing-ldms}
 
 ## Built-In
 
