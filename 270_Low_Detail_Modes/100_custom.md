@@ -16,6 +16,8 @@ Although no fixed limit for the amount of required detail exists, one must be ca
 
 Background deletions are allowed only if their removal does not impact the gameplay. 
 
+If a player decides to remove the end screen for a level, they should be aware of the length of the new level. The length of the original level should **never be adjusted**, for any changes would artificially alter the value of any progress obtained.
+
 ## Color Changes
 
 Occasionally, players may encounter color combinations or flashes in a list demon that cause problems to their eyesight. Although significant changes to a level’s color scheme are not allowed (they are considered [nerfs]), minor color changes are permitted as long as the difficulty of the level remains the same. 
