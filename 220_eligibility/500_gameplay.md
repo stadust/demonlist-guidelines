@@ -2,7 +2,7 @@
 
 # Gameplay Changes{id=gameplay}
 
-In general, records are not eligible for the list if the player changed the gameplay from its original state. However, [removing auto sections at the end](/guidelines/autos) and [fixing bugs] are two important exceptions to this guideline. 
+In general, records are not eligible for the list if the player changed the gameplay from its original state. However, [fixing bugs] is an important exception to this guideline. 
 
 If a list demon uses the in-game two-player mode, *only completions by a single player* are permitted for records on the level.
 
