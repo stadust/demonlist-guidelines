@@ -1,5 +1,7 @@
 % opinions
 
+<div class='panel fade js-scroll-anim' data-anim='fade'>
+
 # Player Reliability
 
 As a rule of thumb, the list team considers the opinions of every victors when initially constructing an opinion list. However, opinions may be weighted differently based on several factors that inherently affect player reliability. These factors include but are not limited to the following list:
@@ -9,3 +11,5 @@ As a rule of thumb, the list team considers the opinions of every victors when i
 - __**Previous Experience**__: A player's experience with other list demons significantly affects their reliability when we collect their opinions. In particular, if the level in question is the player's hardest demon, we will likely omit their opinion because they would not have other list demons to use for comparisons. We will also consider the opinion less if the player has not beaten many list demons of similar difficulty to the level in question. ***To help identify this uncertainty, we ask players to provide the list team with an opinion range between two levels they have completed. Failure to do so decreases the reliability of the opinion and could lead to a less accurate placement.***<br><br>
 - __**Level Experience**__: A player may be generally reliable across multiple list demons but could have an experience with a particular level that makes their opinion for it less reliable. Such experiences include completing the level without dying at parts that most other victors died to (commonly called "fluking"), or taking unusually long to complete the level due to getting "unlucky." The player's perspective on the level's difficulty is often skewed in either of these cases, so we will likely disregard their opinion unless there is a lack of many other reliable opinions for it. <br><br>
 - __**General Reliability**__: Although rare, some players may be considered generally unreliable for list opinions. This decision is often not "against" the player, because it usually pertains to the player having a unique skillset that does not align with the majority of the playing community. This trend is usually evident if the player consistently provides opinions that are outliers compared to the rest of the dataset. However, players that do not cooperate with the list team when providing opinions (e.g. deliberately providing inaccurate information) will usually not be considered for future placements or moves.
+
+</div>
