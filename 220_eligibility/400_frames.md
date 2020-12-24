@@ -1,6 +1,6 @@
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
-# Framerate and FPS Counters{id=fps}
+# Framerate Guidelines{id=fps}
 
 Geometry Dash typically sets the maximum framerate to the monitor's natural refresh rate. However, software that increases the framerate of the game may be used, **but the framerate must remain at or below 300FPS**. Any record with a higher framerate will be considered hacked, and any player that lies about their framerate will be banned from the list. 
 
