@@ -1,6 +1,6 @@
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
-# Raw Footage With Clicks{id=rawclicks}
+# Raw Footage - Clicks{id=rawclicks}
 
 For records *with* audible clicks, players are still encouraged to provide raw footage with their submission whenever possible to avoid rejected records whenever the list team requests it. 
 
