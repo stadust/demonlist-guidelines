@@ -20,6 +20,8 @@ Changes listed here are ordered from most recent to least recent. **Current vers
 
 - Added a guideline that includes a public confession as part of the procedure to turn an indefinite ban into a temporary ban.
 
+- Removed the guideline regarding removing auto sections, as it did not really serve much purpose. To keep the level length the same, players would have to replace an auto section with...another auto section. The level length guideline is now in the Custom LDMs section.
+
 ## Changes from v1.3 to v1.4 (10/29/2020):
 
 - Added guidelines for [creator lists] and verifiers for list demons, including the various definitions of a “creator” and special privileges for megacollab hosts.
