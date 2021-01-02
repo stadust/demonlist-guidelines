@@ -15,7 +15,8 @@ __Example:__ Let's say a level has three opinions so far: #75, #77, and #82. Wit
 ## Limitations of the Mean
 
 Nonetheless, using the mean has its weaknesses as well.  Most importantly, any outliers in the dataset have a magnified effect on the average, which could offset it away from an otherwise clear consensus. 
-__Example:__ Let's say a level have five opinions: two at #67, two at #68, and one at #84. The average of this distribution is #71, but without the outlier opinion (#84), we see a clear consensus of either #67 or #68. We'd likely pick one of those two placements as a good fit for the level in question. 
+
+__Example:__ Let's say a level has five opinions: two at #67, two at #68, and one at #84. The average of this distribution is #71, but without the outlier opinion (#84), we see a clear consensus of either #67 or #68. We'd likely pick one of those two placements as a good fit for the level in question. 
 
 ## Considering Existing List Demons
 
