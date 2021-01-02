@@ -2,7 +2,7 @@
 
 # Eligibility of Hacks{id=hacks}
 
-Although the list team allows certain hacks for records on the list, a player *may not submit a record obtained using hacks* designed to __alter or bypass__ the gameplay in any way. This guideline includes but is not limited to Noclip, GDBot/XBot/YBot, Macros, and Speedhacks. Please refer to [this section] for a list of allowed hacks for records on the Demon List.
+Although the list team allows certain hacks for records on the list, a player *may not submit a record obtained using hacks* designed to __alter or bypass__ the gameplay in any way. This guideline includes but is not limited to Noclip, GDBot/XBot/YBot, Macros, and Speedhacks. Please refer to [this section](/guidelines/miscellaneous/#allowed-hacks) for a list of allowed hacks for records on the Demon List.
 
 ## Player Bans
 
@@ -12,7 +12,7 @@ The ban *will be indefinite* until the player confesses to the list team and pub
 
 *Repeated infractions will very likely result in a permanent ban.*
 
-### 'Qwer' Accounts
+## 'Qwer' Accounts
 
 While not considered a hack, the list team also prohibits 'qwer' accounts that post records from multiple players under a single name. 
 
