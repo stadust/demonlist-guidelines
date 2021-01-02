@@ -6,7 +6,7 @@ Placing a level on the list often results in it receiving new victors as players
 
 ## Opinion Lists for Movements
 
-The analysis of an [opinion list](/guidelines/opinions) for existing list demons works similarly to how we determine new placements. However, greater caution is exercised in cases of high
+The analysis of an [opinion list](/guidelines/listopinions) for existing list demons works similarly to how we determine new placements. However, greater caution is exercised in cases of high
 variation. If a placed level has split opinions (for example, several people find it underrated, while several others find it overrated) from new victors, it is unlikely that the level will be moved unless a stronger consensus appears. 
 
 In addition, some of these existing levels may have been on the list for a very long time, so it's possible that the opinions from the earlier victors would no longer be valid due to new levels getting added over time. When we consider a change to an existing placement, we tend to emphasize the opinions from the more recent victors. As a rule of thumb, players that completed the level __over one year ago__ are usually not asked for updated opinions. 
