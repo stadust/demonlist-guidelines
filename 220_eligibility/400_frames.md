@@ -9,6 +9,7 @@ However, players that can *prove the posession of a 360Hz monitor* are exempt fr
 ## FPS Counters
 
 An FPS counter is optional in most cases, but the list team may request that any given player uses it if we are suspicious of a framerate that exceeds the set maximum. However, an FPS counter is **required** if a record:
+
 - Features a single attempt in Practice Mode
 - Uses the "No Pulse" hack
 - Corresponds to a level that uses one of the in-game "official" songs (e.g. Clubstep)
