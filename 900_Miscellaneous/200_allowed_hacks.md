@@ -7,7 +7,7 @@ The following list details the hacks (from the "Mega Hack") that we allow for re
 - FPS Bypass (up to 300FPS)
 - Accurate Percentage Hack
 - 4GB Patch
-- Editor Hack (for [fixing approved bugs] only, **not LDMs**)
+- Editor Hack (for [fixing approved bugs](/guidelines/eligibility/#bugfixes) only, **not LDMs**)
 - No Pulse (**with an FPS counter**)
 - Wave Pulse Hack
 - No Particles Hack
@@ -19,6 +19,6 @@ The following list details the hacks (from the "Mega Hack") that we allow for re
 - Hide Pause Button
 - Ignore ESC
 - Random Icons
-- Hide Attempt Hack ([Raw footage] is __required__)
+- Hide Attempt Hack ([Raw footage](/guidelines/rawfootage) is __required__)
 
 </div>
