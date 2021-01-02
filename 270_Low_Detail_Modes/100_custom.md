@@ -4,7 +4,7 @@
 
 Some list demons may not have a built-in LDM or an LDM on the Pointercrate account. In these cases, players may choose to create their own LDMs in a copy of the level while targeting specific parts that do not run well for them. 
 
-Although it is not required to have these custom LDMs approved by the list team, it is *strongly recommended* to clear them with the team beforehand, especially if an LDM of the level already exists. Players should note that strong level LDMs may be considered nerfs, which violates our guidelines for [gameplay changes].
+Although it is not required to have these custom LDMs approved by the list team, it is *strongly recommended* to clear them with the team beforehand, especially if an LDM of the level already exists. Players should note that strong level LDMs may be considered nerfs, which violates our guidelines for [gameplay changes](/guidelines/eligibility/#gameplay).
 
 ## Custom LDM Guidelines
 
@@ -20,7 +20,7 @@ If a player decides to remove the end screen for a level, they should be aware o
 
 ## Color Changes
 
-Occasionally, players may encounter color combinations or flashes in a list demon that cause problems to their eyesight. Although significant changes to a level’s color scheme are not allowed (they are considered [nerfs]), minor color changes are permitted as long as the difficulty of the level remains the same. 
+Occasionally, players may encounter color combinations or flashes in a list demon that cause problems to their eyesight. Although significant changes to a level’s color scheme are not allowed (they are considered nerfs), minor color changes are permitted as long as the difficulty of the level remains the same. 
 
 These situations are evaluated on a case by case basis, so be sure to take any color change requests to a list team member!
 
