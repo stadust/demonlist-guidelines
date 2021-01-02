@@ -24,7 +24,7 @@ Changes listed here are ordered from most recent to least recent. **Current vers
 
 ## Changes from v1.3 to v1.4 (10/29/2020):
 
-- Added guidelines for [creator lists] and verifiers for list demons, including the various definitions of a “creator” and special privileges for megacollab hosts.
+- Added guidelines for [creator lists](/guidelines/listplacements/#creators) and verifiers for list demons, including the various definitions of a “creator” and special privileges for megacollab hosts.
 
 - Added a guideline requiring players to respond to a team member’s request within three days before their record is automatically rejected. Responding later will not penalize players or impact the eligibility of their records in any way
 
@@ -34,21 +34,21 @@ Changes listed here are ordered from most recent to least recent. **Current vers
 
 - Emphasized that records without clicks, a handcam, or a live stream are almost guaranteed to get rejected.
 
-- Added a guideline with understanding that changes to submission requirements may catch players off-guard. The list team may grant a [one-time exception] to these guidelines in these situations.
+- Added a guideline with understanding that changes to submission requirements may catch players off-guard. The list team may grant a [one-time exception](/guidelines/miscellaneous/#loopholes-and-exceptions) to these guidelines in these situations.
 
 ## Changes from v1.2 to v1.3 (8/24/2020):
 
-- Added new guidelines for players submitting [raw footage] with their records. They fully describe the process players will need to follow to minimize the risk of a rejected record.
+- Added new guidelines for players submitting [raw footage](/guidelines/rawfootage) with their records. They fully describe the process players will need to follow to minimize the risk of a rejected record.
 
-- Clarified the ]texture pack guidelines] to allow all packs that only change the appearance of the player icons (e.g. ship, ball, wave, etc.).
+- Clarified the [texture pack guidelines](/guidelines/lowdetailmodes/#texture-packs) to allow all packs that only change the appearance of the player icons (e.g. ship, ball, wave, etc.).
 
 ## Changes from v1.1 to v1.2 (8/14/2020):
 
 - Added a guideline that allows Practice Mode records from 0% only with a visible FPS counter.
 
-- Changed the [LDM guidelines] to allow minor color changes whenever the original level causes problems to eyesight.
+- Changed the [LDM guidelines](/guidelines/lowdetailmodes) to allow minor color changes whenever the original level causes problems to eyesight.
 
-- Added No Glow to the [list of allowed hacks], since the same effect occurs with the in-game Low Detail Mode. 
+- Added No Glow to the [list of allowed hacks](/guidelines/miscellaneous/#allowed-hacks), since the same effect occurs with the in-game Low Detail Mode. 
 
 ## Changes from v1.0 to v1.1 (7/19/2020):
 
@@ -56,6 +56,6 @@ Changes listed here are ordered from most recent to least recent. **Current vers
 
 - Changed the Type I skip example to 3% on Sakupen Hell (since not many people are familiar with Freedom08).
 
-- Added the Hide Attempt hack as an [allowed hack] ONLY with full raw footage or a stream (changed to a general raw footage requirement in v1.5).
+- Added the Hide Attempt hack as an [allowed hack](/guidelines/miscellaneous/#allowed-hacks) ONLY with full raw footage or a stream (changed to a general raw footage requirement in v1.5).
 
 </div>
