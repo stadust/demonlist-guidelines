@@ -6,38 +6,38 @@ These guidelines are split into two main sections: one that covers **level place
 
 ## Level Placements
 
-- [Level Eligibility]
+- [Level Eligibility](/guidelines/listplacements/#level-eligibility)
 
-- [Timing of Placements]
+- [Timing of Placements](/guidelines/listplacements/#timing)
 
-- [Opinion Lists]
+- [Opinion Lists](/guidelines/listopinions)
 
-- [Moving Levels]
+- [Moving Levels](/guidelines/listplacements/#movements)
 
-- [Creator Lists]
+- [Creator Lists](/guidelines/listplacements/#creators)
 
 ## Managing Records
 
-- [Submission Requirements]
+- [Submission Requirements](/guidelines/records/#submissions)
 
-- [Record Eligibility]
+- [Record Eligibility](/guidelines/eligibility)
 
-- [Adding Records]
+- [Adding Records](/guidelines/records/#additions)
 
-- [Skips]
+- [Skips](/guidelines/eligibility/#skips)
 
-- [FPS Guidelines]
+- [FPS Guidelines](/guidelines/eligibility/#fps)
 
-- [Under Consideration Records]
+- [Under Consideration Records](/guidelines/eligibility/#uc-records)
 
-- [Raw Footage]
+- [Raw Footage](/guidelines/rawfootage)
 
-- [Fixing Bugs]
+- [Fixing Bugs](/guidelines/eligibility/#bugfixes)
 
-- [Low Detail Modes]
+- [Low Detail Modes](/guidelines/lowdetailmodes)
 
-- [Records After Level Updates]
+- [Records After Level Updates](/guidelines/levelupdates/#records-after-level-updates)
 
-- [Manual Record Removal]
+- [Manual Record Removal](/guidelines/records/#manual-record-removal)
 
 </div>
