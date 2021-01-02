@@ -7,7 +7,7 @@
 Although the [key takeaways](/guidelines/index/#takeaways) in these guidelines are still important for players to know, this checklist summarizes the most essential steps players should take to maximize their chances of getting their record approved!
 
 - If you can, complete the level on the rated version on the servers or on an "official" copy uploaded to the Pointercrate account.<br><br>
-- If you need to beat the level on a copy for any reason, clear it with the list team first! This includes but is not limited to [LDMs] and [bug fixes].<br><br>
+- If you need to beat the level on a copy for any reason, clear it with the list team first! This includes but is not limited to [LDMs](/guidelines/lowdetailmodes/) and [bug fixes](/guidelines/eligibility/#bugfixes).<br><br>
 - If you'd like to use a skip, check to see if it's used in a completion already accepted to the list. If not, please get it approved by the list team before proceeding!<br><br>
 - Do not skip the endscreen after a completion! This will warrant an immediate rejection of your record.<br><br>
 - If you're using the No Pulse hack, or are playing a level with an "official" in-game song, be sure to turn on an FPS counter!<br><br>
