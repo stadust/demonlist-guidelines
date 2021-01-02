@@ -40,4 +40,6 @@ These guidelines are split into two main sections: one that covers **level place
 
 - [Manual Record Removal](/guidelines/records/#manual-record-removal)
 
+- [Allowed Hacks](/guidelines/miscellaneous/#allowed-hacks)
+
 </div>
