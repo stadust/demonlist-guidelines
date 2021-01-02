@@ -14,6 +14,6 @@ Whenever a new guideline is released, we understand that players may mistakenly 
 
 On a case-by-case basis, the list team may decide to grant a *one-time exception* for these scenarios while explicitly telling the player the necessary procedures to follow in the future. **Asking the team for an exception does not increase your likelihood of receiving one!**
 
-*Players should be sure to monitor the [changelog] for these guidelines to ensure that no important changes are missed!* Any major changes will also be announced in our [Discord server](https://discord.gg/M7bDDQf).
+*Players should be sure to monitor the [changelog](/guidelines/index/#changelog) for these guidelines to ensure that no important changes are missed!* Any major changes will also be announced in our [Discord server](https://discord.gg/M7bDDQf).
 
 </div>
