@@ -10,7 +10,7 @@ Please note that if there is ever a conflict between these points and the full g
 
 - Submitted records can correspond to a player *completing a level* or *achieving progress above its minimum requirement*. The minimum requirement for a given list demon can be found in that level's page on Pointercrate. 
 
-- Players should submit **their own records** and include an uncut video of their progress or completion run. The video should be available on YouTube, Twitch, Vimeo, Everyplay, or Bilibili; Pointercrate does not support any other video-sharing platforms! <More Details>
+- Players should submit **their own records** and include an uncut video of their progress or completion run. The video should be available on YouTube, Twitch, Vimeo, Everyplay, or Bilibili; Pointercrate does not support any other video-sharing platforms! [More Details](/guidelines/eligibility/#videoreqs)
 
 - To check the status of your submission, players should re-submit the same record using the form on the [Demon List](/demonlist)!
 
@@ -18,7 +18,9 @@ Please note that if there is ever a conflict between these points and the full g
 
 ## Raw Footage
 
-- Raw Footage is **required** for all records without clicks and **strongly encouraged** for all first submissions to the list. Raw footage is defined as the unedited recording of the session, either from a recording software or a livestream. Players that wish to submit raw footage **must** provide it in the 'Notes' section of the submission form or in the video description. ***We will seldom reach out to you if we need raw footage and you did not provide it to us!*** [More Details](/guidelines/raw/#raw-footage)
+- Raw Footage is **required** for all records without clicks and **strongly encouraged** for all first submissions to the list. Raw footage is defined as the unedited recording of the session, either from a recording software or a livestream. 
+
+- Players that wish to submit raw footage **must** provide it in the 'Notes' section of the submission form or in the video description. ***We will seldom reach out to you if we need raw footage and you did not provide it to us!*** [More Details](/guidelines/raw/#raw-footage)
 
 - Records on mobile devices have [slightly different](/guidelines/raw/#raw-footage-on-mobile) raw footage guidelines due to natural limitations of the device.
 
@@ -34,7 +36,9 @@ Please note that if there is ever a conflict between these points and the full g
 
 ## Bannable Offenses
 
-- Records using disallowed hacks will not be added to the list, and players that pass off these records as legitimate will be banned until they confess to hacking. Refusing to provide evidence for legitimacy is also grounds for a ban. <This list> details the hacks we allow for list records, and <this section> more specifically outlines the retributions against hacked records. 
+- Records using disallowed hacks will not be added to the list, and players that pass off these records as legitimate will be banned until they confess to hacking. Refusing to provide evidence for legitimacy is also grounds for a ban. 
+
+- [This list](/guidelines/miscellaneous/#allowed-hacks) details the hacks we allow for list records, and [this section](/guidelines/eligibility/#hacks) more specifically outlines the retributions against hacked records. 
 
 - Players are not allowed to collectively submit records for a single account! [More Details](/guidelines/eligibility/#hacks)
 
@@ -47,7 +51,9 @@ Please note that if there is ever a conflict between these points and the full g
 
 ## Fixing Bugs
 
-- Players are generally allowed to fix bugs that are caused by varying refresh rates or in-game physics changes, especially if the level is made unreasonably more difficult or impossible as a result. Submitting illegal bugfixes repeatedly without clearing them with the team may result in a player ban! [More Details](/guidelines/eligibility/#bugfixes)
+- Players are generally allowed to fix bugs that are caused by varying refresh rates or in-game physics changes, especially if the level is made unreasonably more difficult or impossible as a result. 
+
+- Submitting illegal bugfixes repeatedly without clearing them with the team may result in a player ban! [More Details](/guidelines/eligibility/#bugfixes)
 
 ## LDMs, Texture Packs, and the Smooth Fix
 
