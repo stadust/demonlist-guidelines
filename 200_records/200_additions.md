@@ -8,7 +8,7 @@ However, the list team may occasionally add records to the list manually. These 
 
 ## Under Consideration Records{id=uc}
 
-A player may check the status of their submission and see that the record is **under consideration**. This classification means that the list team is not immediately sure whether the record is acceptable, and it **does not** necessarily mean that we're suspicious of hacking. [This section] delineates the possible causes for this additional review, and what you can do as a player to speed up the process. 
+A player may check the status of their submission and see that the record is **under consideration**. This classification means that the list team is not immediately sure whether the record is acceptable, and it **does not** necessarily mean that we're suspicious of hacking. [This section](/guidelines/eligibility/#uc-records) delineates the possible causes for this additional review, and what you can do as a player to speed up the process. 
 
 In many cases, the list team will reach out for additional information regarding a record marked as under consideration. *A player has **three days** to respond to such a request from a list team member before their record will be automatically rejected.* However, a player may still reach out to a team member after this deadline for their record to be reconsidered.
 
