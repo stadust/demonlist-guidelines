@@ -8,7 +8,7 @@ This guideline also applies to gameplay made unreasonably more difficult compare
 
 ## Illegal Bug Fixes
 
-***Players should communicate with the least team as regularly as possible when creating custom bug fixes!*** Submitting an illegal bug fix alone is not grounds for a player ban; however, repeatedly submitting prohibited bug fixes prior to clearing them with the team *may result in a short ban*.
+***Players should communicate with the list team as regularly as possible when creating custom bug fixes!*** Submitting an illegal bug fix alone is not grounds for a player ban; however, repeatedly submitting prohibited bug fixes prior to clearing them with the team *may result in a short ban*.
 
 ## Custom Speed Changes
 
