@@ -2,7 +2,11 @@
 
 # Moving Levels{id=movements}
 
-Placing a level on the list often results in it receiving new victors as players attempt to beat it for list points. As such, several of the new victors may say that the level should be either raised or lowered from its initial position. If we hear of multiple victors for a level suggesting its reevaluation, or if a staff member completes it and proposes the change to the rest of the team, we will likely begin to collect opinions from recent victors and add them to the initial opinion list. We will also begin collecting new opinions if the level receives a legitimately verified update that noticeably alters its difficulty. 
+Placing a level on the list often results in it receiving new victors as players attempt to beat it for list points. As such, several of the new victors may say that the level should be either raised or lowered from its initial position. 
+
+If we hear of multiple victors for a level suggesting its reevaluation, or if a staff member completes it and proposes the change to the rest of the team, we will likely begin to collect opinions from recent victors and add them to the initial opinion list. 
+
+We will also begin collecting new opinions if the level receives a legitimately verified update that noticeably alters its difficulty. 
 
 ## Opinion Lists for Movements
 
