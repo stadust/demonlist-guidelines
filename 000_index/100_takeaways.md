@@ -34,7 +34,7 @@ Please note that if there is ever a conflict between these points and the full g
 
 - Using a skip that does not bypass entire sections of the level or alter the level's hardest parts is generally acceptable, but players should take note of whether the skip is still possible in the rated version of the level. [More Details](/guidelines/eligibility/#skips)
 
-- 100% records that do not show the in-game endscreen will not be eligible for the list, unless the game crashes before the endscreen is displayed.
+- 100% records that do not show the in-game endscreen will not be eligible for the list, unless the game crashes before the endscreen is displayed. Records with endscreens that are unreadable will also not be accepted to the list.
 
 ## Bannable Offenses
 
