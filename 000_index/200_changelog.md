@@ -4,7 +4,29 @@
 
 This webpage archives the various changes the list team has made to the rules and guidelines of the Demon List. At the moment, our only notification system for new changes is in our [Discord server](https://discord.gg/M7bDDQf), so if you are not a member there, it's a good idea to check this section occasionally for new updates.
 
-Changes listed here are ordered from most recent to least recent. **Current version: v1.5**
+Changes listed here are ordered from most recent to least recent. **Current version: v1.6**
+
+## Changes from v1.5 to v1.6 (1/31/2020)
+
+- Added statements that more clearly states the importance of clicks to the [key takeaways](/guidelines/index/#takeaways) and [player checklist](/guidelines/miscellaneous/#checklist) pages.
+
+- Removed the guideline about auto sections from Key Takeaways, as it was removed from the full guidelines in v1.5.
+
+- Added RGB icons and Fast Reset to the list of allowed hacks.
+
+- Added a guideline allowing players to adjust their framerate midway through an attempt, as long as it does not exceed their set maximum framerate.
+
+- Added a statement to Key Takeaways clarifying that we only accept Twitch highlights, **not** stream archives.
+
+- Added a guideline requiring records to be on the current version of the game.
+
+- Specified that any record without **orb pulses** requires an FPS counter. Records that have wave pulses but no orb pulses are not exempt from this guideline!
+
+- Added a guideline stating that the list team almost never retroactively rejects records after a guidelines update.
+
+- Clarified that players should send a **NoClip run of a custom LDM** to the list team so we can respond to their request quickly.
+
+- Expanded the texture pack guidelines to prohibit anything that makes the text of the endscreen unreadable.,
 
 ## Changes from v1.4 to v1.5 (12/5/2020)
 
