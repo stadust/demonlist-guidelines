@@ -22,7 +22,7 @@ Please note that if there is ever a conflict between these points and the full g
 
 - Raw Footage is **required** for all records without clicks and **strongly encouraged** for all first submissions to the list. Raw footage is defined as the unedited recording of the session, either from a recording software or a livestream. 
 
-- If a video for a record was not streamed and does not have audible clicks or a handcam, it has a **very high likelihood of being rejected** due to high suspicion!
+- It is **essential** for either the completion or raw footage to contain *audible clicks* for the entire run. A record without clicks is **nearly guaranteed to be rejected**!
 
 - Players that wish to submit raw footage **must** provide it in the 'Notes' section of the submission form or in the video description. ***We will seldom reach out to you if we need raw footage and you did not provide it to us!*** [More Details](/guidelines/raw/#raw-footage)
 
