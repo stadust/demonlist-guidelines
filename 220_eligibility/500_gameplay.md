@@ -12,6 +12,8 @@ Disallowed changes to the gameplay of a level are often classified as nerfs, whi
 
 A completion video that does not show the **in-game endscreen** after completing the level will not be eligible for a record on the list, unless the player provides [raw footage](/guidelines/rawfootage) of the completion that includes this endscreen. However, if the game crashes before the endscreen is displayed, it will serve as an exception to this rule.
 
+In addition, a visible endscreen should be easily readable by the viewer. If the record features a [texture pack](/guidelines/lowdetailmodes/#texture-packs) that makes the endscreen unreadable, it will not be eligibile for the list.
+
 ## Game Version
 
 Although these changes are typically not significant, an in-game update may alter the physics of various gamemodes, which can change the difficulty of passing certain sections of list demons. Because of this inconsistency, **any record that was not achieved on the current version of the game** will not be accepted to the list. 
