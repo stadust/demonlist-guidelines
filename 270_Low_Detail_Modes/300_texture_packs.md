@@ -6,4 +6,6 @@ Any texture packs that make the gameplay of the level easier by altering decorat
 
 Texture packs that visibly alter hitboxes (e.g. spikes, but **not** player icons) to make them perceptively easier to avoid are also disallowed.
 
+In addition, players are not permitted to use texture packs that make the text within the in-game endscreen impossible to read.
+
 </div>
