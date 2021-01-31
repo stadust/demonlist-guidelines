@@ -20,5 +20,7 @@ The following list details the hacks (from the "Mega Hack") that we allow for re
 - Ignore ESC
 - Random Icons
 - Hide Attempt Hack ([Raw footage](/guidelines/rawfootage) is __required__)
+- RGB Icons
+- Fast Reset
 
 </div>
