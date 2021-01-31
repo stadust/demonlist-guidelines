@@ -13,7 +13,7 @@ Although the [key takeaways](/guidelines/index/#takeaways) in these guidelines a
 - If you're using the No Pulse hack, or are playing a level with an "official" in-game song, be sure to turn on an FPS counter!<br><br>
 - Include [raw footage](/guidelines/rawfootage/) with your record, especially if it's your first time submitting or don't have clicks!<br><br>
 - If you don't provide raw footage with your submission, do not delete it until your record is accepted! If we need raw footage and it's not provided, we'll reject the record initially, but players can reach out to us to provide raw footage at any time if they have it.<br><br>
-- Include clicks in your completion video or raw footage! Failure to provide clicks will significantly increase the likelihood of a rejected record.<br><br>
+- It is **crucial** that you include clicks in your completion video or raw footage! Failure to provide clicks will significantly increase the likelihood of a rejected record.<br><br>
 - When you include clicks in your video, be sure that they're clearly audible to the viewer! Barely audible clicks are considered equivalent to no clicks and require corresponding raw footage.<br><br>
 - If you're recording a liveplay (e.g. with your phone camera), be sure to have the monitor screen and input device clearly visible in the video! 
 
