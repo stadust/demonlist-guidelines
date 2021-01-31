@@ -6,6 +6,8 @@ Some list demons may not have a built-in LDM or an LDM on the Pointercrate accou
 
 Although it is not required to have these custom LDMs approved by the list team, it is *strongly recommended* to clear them with the team beforehand, especially if an LDM of the level already exists. Players should note that strong level LDMs may be considered nerfs, which violates our guidelines for [gameplay changes](/guidelines/eligibility/#gameplay).
 
+Players that need to clear an LDM with the team should **share a NoClip run of the level with us** so we can respond to your request quickly. Simply sharing an ID with the team is not recommended!
+
 ## Custom LDM Guidelines
 
 This subsection describes general points players should note when creating LDMs of list demons. 
