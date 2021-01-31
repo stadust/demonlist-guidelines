@@ -61,6 +61,8 @@ Please note that if there is ever a conflict between these points and the full g
 
 - Low Detail Modes (LDMs) that are built into the original level or uploaded to the Pointercrate account are always eligible for records. Players may also choose to create their own LDMs, but should clear them with the list team in advance. [More Details](/guidelines/ldms/#custom-ldms)
 
+- The most effective way to clear an LDM with the list team is to **share a NoClip run of the level with us**. Players should not simply share a level ID with a team member!
+
 - Using the Smooth Fix to significantly slow down the game is not permitted. In addition, texture packs that visibly alter hitboxes *other than that of the player itself* are not permitted.
 
 
