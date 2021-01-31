@@ -30,8 +30,6 @@ Please note that if there is ever a conflict between these points and the full g
 
 - The run for any record must start at the beginning of the level and last until the submitted progress value. Exiting the level midway through an attempt or using one attempt in Practice Mode does not disqualify a record!
 
-- Auto sections at the end of a level may be removed as long as the length of the level remains the same.
-
 - Using a skip that does not bypass entire sections of the level or alter the level's hardest parts is generally acceptable, but players should take note of whether the skip is still possible in the rated version of the level. [More Details](/guidelines/eligibility/#skips)
 
 - 100% records that do not show the in-game endscreen will not be eligible for the list, unless the game crashes before the endscreen is displayed.
