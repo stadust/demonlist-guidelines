@@ -4,6 +4,8 @@
 
 This section of the guidelines simplifies the most important points for players to know before playing a list demon or submitting a record. **Players are responsible for keeping each of these points in mind whenever they are applicable!** 
 
+Players should also refer to the [player checklist](/guidelines/miscellaneous/#checklist) for a more concise list of important points to keep in mind.
+
 Please note that if there is ever a conflict between these points and the full guidelines, *the guidelines always take precedence*.
 
 ## Submissions
