@@ -6,6 +6,8 @@ Geometry Dash typically sets the maximum framerate to the monitor's natural refr
 
 However, players that can *prove the posession of a 360Hz monitor* are exempt from this guideline and may submit records with a framerate of up to 360FPS. **Only players that own the monitor may use 360FPS** due to significant Low Detail Modes that would be necessary for the majority of other players to run it.
 
+Players are allowed to **change their framerate** midway through an attempt as long as it continues to follow the set maximum framerate for the player.
+
 ## FPS Counters
 
 An FPS counter is optional in most cases, but the list team may request that any given player uses it if we are suspicious of a framerate that exceeds the set maximum. However, an FPS counter is **required** if a record:
@@ -15,5 +17,7 @@ An FPS counter is optional in most cases, but the list team may request that any
 - Corresponds to a level that uses one of the in-game "official" songs (e.g. Clubstep)
 
 Although we will reject records that do not have an FPS counter in these situations, the player **will not be banned** unless they attempt to lie about their framerate. 
+
+
 
 </div>
