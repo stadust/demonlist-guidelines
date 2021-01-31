@@ -12,7 +12,7 @@ Please note that if there is ever a conflict between these points and the full g
 
 - Submitted records can correspond to a player *completing a level* or *achieving progress above its minimum requirement*. The minimum requirement for a given list demon can be found in that level's page on Pointercrate. 
 
-- Players should submit **their own records** and include an uncut video of their progress or completion run. The video should be available on YouTube, Twitch, Vimeo, Everyplay, or Bilibili; Pointercrate does not support any other video-sharing platforms! [More Details](/guidelines/eligibility/#videoreqs)
+- Players should submit **their own records** and include an uncut video of their progress or completion run. The video should be available on YouTube, Twitch (**highlights only**), Vimeo, Everyplay, or Bilibili; Pointercrate does not support any other video-sharing platforms! [More Details](/guidelines/eligibility/#videoreqs)
 
 - To check the status of your submission, players should re-submit the same record using the form on the [Demon List](/demonlist)!
 
