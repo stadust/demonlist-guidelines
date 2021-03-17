@@ -4,9 +4,19 @@
 
 This webpage archives the various changes the list team has made to the rules and guidelines of the Demon List. At the moment, our only notification system for new changes is in our [Discord server](https://discord.gg/M7bDDQf), so if you are not a member there, it's a good idea to check this section occasionally for new updates.
 
-Changes listed here are ordered from most recent to least recent. **Current version: v1.6**
+Changes listed here are ordered from most recent to least recent. **Current version: v1.7**
 
-## Changes from v1.5 to v1.6 (1/31/2020)
+## Changes from v1.6 to v1.7 (3/17/2021)
+
+- Changed the wording of our [framerate guidelines](https://pointercrate.com/guidelines/eligibility/#fps).
+
+- Added a guideline that allows players to directly submit legacy records to the list team **only if** they were achieved before the level fell off the list and if they conform to **today's eligibility guidelines**.
+
+- Added a guideline that allows players to submit records that use a [Type III or patched Type II skip](/guidelines/eligibility/#skips) as if they had achieved progress right before taking the skip.
+
+- Added a guideline that prohibits the use of [shaders](/lowdetailmodes/#texture-packs) for record on the list.
+
+## Changes from v1.5 to v1.6 (1/31/2021)
 
 - Added statements that more clearly states the importance of clicks to the [key takeaways](/guidelines/index/#takeaways) and [player checklist](/guidelines/miscellaneous/#checklist) pages.
 
