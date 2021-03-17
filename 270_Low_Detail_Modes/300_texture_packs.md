@@ -12,7 +12,7 @@ In addition, players are not permitted to use texture packs that make the text w
 
 ## Shaders
 
-A *shader* is generally defined as any external software that alters the visual appearance of the game. A shader may function similarly to a texture pack because it changes the display of in-game textures, but shaders could also change the brightness or hues of certain colors. 
+A *shader* is generally defined as any external software that alters the visual appearance of the game. A shader may function similarly to a texture pack if it changes the display of in-game textures, but shaders could also change the brightness or hues of certain colors. 
 
 Changing the appearance of textures and colors could adversely affect the difficulty of a list demon, so the use of shaders is also **prohibited for records on the list.**
 
