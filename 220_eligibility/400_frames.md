@@ -4,7 +4,7 @@
 
 Geometry Dash typically sets the maximum framerate to the monitor's natural refresh rate. However, software that increases the framerate of the game may be used, **but the framerate must remain at or below 300FPS**. Any record with a higher framerate will be considered hacked, and any player that lies about their framerate will be banned from the list. 
 
-However, players that can *prove the posession of a 360Hz monitor* are exempt from this guideline and may submit records with a framerate of up to 360FPS. **Only players that own one of these monitors may use 360FPS** in their records!
+However, players that can *prove the posession of a 360Hz monitor* are exempt from this guideline and may submit records with a framerate of up to 360FPS. **Only players that own one of these monitors may use up to 360FPS** in their records!
 
 Players are allowed to **change their framerate** midway through an attempt as long as it continues to follow the set maximum framerate for the player.
 
