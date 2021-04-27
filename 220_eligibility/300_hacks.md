@@ -4,6 +4,10 @@
 
 Although the list team allows certain hacks for records on the list, a player *may not submit a record obtained using hacks* designed to __alter or bypass__ the gameplay in any way. This guideline includes but is not limited to Noclip, GDBot/XBot/YBot, Macros, and Speedhacks. Please refer to [this section](/guidelines/miscellaneous/#allowed-hacks) for a list of allowed hacks for records on the Demon List.
 
+It should be noted that, per the [framerate guidelines](/guidelines/eligibility/#fps) players are allowed to use the FPS bypass to change the in-game framerate in the middle of an attempt. However, except for the FPS bypass, players are **prohibited** from changing the state of allowed hacks after the start of an attempt if this change is intended to alter the difficulty of the level. 
+
+Any records involving a player enabling or disabling allowed hacks to change the difficulty of the level will be rejected, and these decisions will be determined on a case by case basis. 
+
 ## Player Bans
 
 ***Any attempt to post an illegitimate (hacked) record while passing it off as not hacked will cause the player to be banned from the stats viewer on this website.*** 
