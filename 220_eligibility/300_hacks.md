@@ -12,10 +12,10 @@ The ban *will be indefinite* until the player confesses to the list team and pub
 
 *Repeated infractions will very likely result in a permanent ban.*
 
-## 'Qwer' Accounts
+## Alternate and 'Qwer' Accounts
 
-While not considered a hack, the list team also prohibits 'qwer' accounts that post records from multiple players under a single name. 
+While not considered a hack, the list team also prohibits alternate accounts for players that have already submitted records under a different name. If a player is caught with more than one account on the list, the new account will be banned permanently, and the individual account will be banned indefinitely until the owner publicly confesses.
 
-If multiple players are caught submitting records for a single account on the list, the group account will be banned permanently and the individual players recording the videos will be banned indefinitely until each one confesses.
+In addition, the list team prohibits 'qwer' accounts that post records from multiple players under a single name. If multiple players are caught submitting records for a single account on the list, the group account will be banned permanently and the individual players recording the videos will be banned indefinitely until each one publicly confesses.
 
 </div>
