@@ -11,6 +11,7 @@ Although the [key takeaways](/guidelines/index/#takeaways) in these guidelines a
 - If you have an LDM that needs to be checked, please **share a NoClip run with the list team** to help us respond quickly to your request!<br><br>
 - If you'd like to use a skip, check to see if it's used in a completion already accepted to the list. If not, please get it approved by the list team before proceeding!<br><br>
 - Do not skip the endscreen after a completion! This will warrant an immediate rejection of your record. In addition, make sure you're not using a texture pack that makes the endscreen text hard to read.<br><br>
+- You can use a framerate up to 360FPS, but be sure to include an FPS counter if you use a framerate above 300FPS!<br><br>
 - If you've turned off orb pulses or are playing a level with an "official" in-game song, be sure to turn on an FPS counter!<br><br>
 - Include [raw footage](/guidelines/rawfootage/) with your record, especially if it's your first time submitting or don't have clicks!<br><br>
 - If you don't provide raw footage with your submission, do not delete it until your record is accepted! If we need raw footage and it's not provided, we'll reject the record initially, but players can reach out to us to provide raw footage at any time if they have it.<br><br>
