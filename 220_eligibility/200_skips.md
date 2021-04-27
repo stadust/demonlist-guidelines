@@ -8,23 +8,23 @@ If a record uses a prohibited skip (either a patched Type II skip or a Type III 
 
 This subsection of the guidelines addresses the three "types" of skips in this regard, but **players are highly encouraged to check with the List Team before submitting a record that uses a skip!**
 
-## Type I{id=type1}
+## Type I{id=type1} - Always Allowed
 
 A **Type I skip** either barely deviates from the intended route in regard to difficulty or makes the level harder than intended while keeping the player close to the original path. A "secret way" that features difficulty beyond that of the rest of the level is still **not considered a Type I skip** because of the significant deviation from the normal route. 
 
 A Type I skip *will always be accepted*, even after it is patched in the level on the servers. An example of a Type I skip is 3% in Sakupen Hell.
 
-## Type II{id=type2}
+## Type II{id=type2} - Allowed if Not Patched
 
 A **Type II skip** is notably more significant; for example, the skip may bypass a section of a level longer than just a click or two. However, they are not egregious enough to warrant partially accepting a record, which is often the case when the difficulty does not significantly change. 
 
 Type II skips will be accepted *unless they are patched in the level on the servers*; an example is 67-68% in Zaphkiel (previously allowed, but not now because it was fixed). Note that records previously accepted with a Type II skip will remain *unless its classification changes* (see below).
 
-## Type III{id=type3}
+## Type III{id=type3} - Never Allowed
 
-A **Type III skip** is significant enough to warrant **only partially accepting** a record that uses it, with no exception. This classification includes but is not limited to taking a "secret way" or bypassing the hardest part(s) of the level. 
+A **Type III skip** is significant enough to warrant **only partially accepting** a record that uses it, with no exception. This classification includes but is not limited to taking a "secret way" or bypassing the hardest part(s) of the level.
 
-An example of a Type III skip is 83% in Devil Vortex. A player that takes this skip will be entitled to a maximum progress submission of 83%.
+An example of a Type III skip is 83% in Devil Vortex. A player that takes this skip will be eligible for a maximum progress submission of 83%.
 
 ## Changing Skip Classifications{id=skipchanges}
 
