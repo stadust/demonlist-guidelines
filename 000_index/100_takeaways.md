@@ -46,9 +46,9 @@ Please note that if there is ever a conflict between these points and the full g
 
 ## Framerate and FPS Counters
 
-- Players may use their monitor's refresh rate or a third-party software at a framerate of up to 300FPS. However, players that can prove ownership of a 360Hz monitor may use it for their records. [More Details](/guidelines/eligibility/#fps)
+- Players may use their monitor's refresh rate or a third-party software at a framerate of up to 360FPS. [More Details](/guidelines/eligibility/#fps)
 
-- An FPS counter is **required** if the player turns off orb pulses, achieves the run in Practice Mode, or submits a record for a level that uses an in-game "official" song. [More Details](/guidelines/eligibility/#fps)
+- An FPS counter is **required** if the player turns off orb pulses, achieves the run in Practice Mode, uses a framerate above 300FPS, or submits a record for a level that uses an in-game "official" song. [More Details](/guidelines/eligibility/#fps)
 
 
 ## Fixing Bugs
