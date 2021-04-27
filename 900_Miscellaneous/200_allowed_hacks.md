@@ -13,7 +13,8 @@ The following list details the hacks (from the "Mega Hack") that we allow for re
 - No Particles Hack
 - No Transition
 - No Glow
-- Trail Always Off/On
+- Trail Always Off
+- Trail Always On (only if the level does **not** include a section with the Hide Player trigger)
 - Inversed Trail
 - Percentage Only
 - Hide Pause Button
