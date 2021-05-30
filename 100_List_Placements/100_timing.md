@@ -13,5 +13,7 @@ Even if the level does not have a clear consensus, or if the opinions have a lot
 We will place a list-worthy level no more than **one month** after it gets rated in-game, even if it has little to no victors. Such levels are highly subject to change in the future as players eventually complete them. 
 
 Please note that these guidelines does __not__ apply to levels with a hacked verification; the one-month timeline for a hacked level begins after it receives its first legitimate victor.
+  
+In addition, this one-month timeline will **reset** if the level receives an [update](/guidelines/levelupdates/) with a legitimate verification, regardless of whether it was placed prior to the update.
 
 </div>
