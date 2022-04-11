@@ -4,7 +4,7 @@
 
 # Raw Footage
 
-The submission form on this website includes a Raw Footage section in which players may include additional information regarding their records. Players are expected - **and in some cases, required** - to provide raw footage in this section to support their legitimacy. Players may also include a link to raw footage in the description of the submitted video. 
+The submission form on this website includes a Raw Footage section in which players may include additional information regarding their records. Players are expected - **and in some cases, required** - to provide raw footage in this section to support their legitimacy. Players may also include a link to raw footage in the description of the submitted video; however, please be sure to include a note directing the team member to where they may find your raw footage! 
   
 To reiterate - **We expect players to provide raw footage that follow the guidelines below for every record they submit. In addition to the standard requirements, we reserve the right to require raw footage if we are not comfortable with approving the record without it. By not providing raw footage, you acknowledge that __you do not have any to provide__, and you recognize the possibility of your record getting rejected!**
 
