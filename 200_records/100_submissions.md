@@ -16,6 +16,6 @@ By default, the submission form on Pointercrate does **not** accept records for 
 
 A record will be considered for addition if the timestamp on the corresponding video refers to a time in which the level was still on the Demon List. However, it is not possible for players to submit them using the submission form on the website, so the recommended way to send these to the list team is through [our Discord server](https://discord.gg/M7bDDQf). 
 
-Although these records are usually much older than most submissions, ***all submitted records will be considered under modern submission guidelines***. As such, players should note that records that were eligible for the list at the time of completion *may not be eligible under today's standards*, and they would be rejected in this case.
+Although these records are usually much older than most submissions, ***all submitted records will be considered under modern submission guidelines***. As such, players should note that records that were eligible for the list at the time of completion *may not be eligible under today's standards*, and they would be rejected in this case. **This includes the requirement for providing raw footage!**
 
 </div>
