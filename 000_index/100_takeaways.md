@@ -10,7 +10,7 @@ Please note that if there is ever a conflict between these points and the full g
 
 ## User Area
   
-- Pointercrate features a [User Area](/login) in which players may create a profile associated with their player on the Demon List. Features such as [player nationality](/guidelines/miscellaneous#nationality) and locking submissions from other players can be accessed here!
+- Pointercrate features a [User Area](/login) in which players may create a profile associated with their player on the Demon List. Features such as [setting a player location](/guidelines/miscellaneous#location) and locking submissions from other players can be accessed here!
   
 - Any questions regarding claiming a player using your Pointercrate account or using the User Area should be directed to the staff at [Pointercrate Central](https://discord.gg/sQewUEB)!
   
@@ -20,7 +20,7 @@ Please note that if there is ever a conflict between these points and the full g
 
 - Players should submit **their own records** and include an uncut video of their progress or completion run. The video should be available on YouTube, Twitch (**highlights only**), Vimeo, or Bilibili; Pointercrate does not support any other video-sharing platforms! [More Details](/guidelines/eligibility/#videoreqs)
 
-- To check the status of your submission, players should re-submit the same record using [Record Submitter](/demonlist/?submitter=true) on the Demon List!
+- To check the status of your submission, players can use the [User Area](/login) or re-submit the same record using [Record Submitter](/demonlist/?submitter=true) on the Demon List!
 
 - A player has **three days** to respond to a team member's question about a record before that record is automatically rejected. The record will be reconsidered if the player reaches out to a team member after this deadline.
 
