@@ -8,29 +8,37 @@ Players should also refer to the [player checklist](/guidelines/miscellaneous/#c
 
 Please note that if there is ever a conflict between these points and the full guidelines, *the guidelines always take precedence*.
 
+## User Area
+  
+- Pointercrate features a [User Area](/login) in which players may create a profile associated with their player on the Demon List. Features such as [player nationality](/guidelines/miscellaneous#nationality) and locking submissions from other players can be accessed here!
+  
+- Any questions regarding claiming a player using your Pointercrate account or using the User Area should be directed to the staff at [Pointercrate Central](https://discord.gg/sQewUEB)!
+  
 ## Submissions
 
 - Submitted records can correspond to a player *completing a level* or *achieving progress above its minimum requirement*. The minimum requirement for a given list demon can be found in that level's page on Pointercrate. 
 
-- Players should submit **their own records** and include an uncut video of their progress or completion run. The video should be available on YouTube, Twitch (**highlights only**), Vimeo, Everyplay, or Bilibili; Pointercrate does not support any other video-sharing platforms! [More Details](/guidelines/eligibility/#videoreqs)
+- Players should submit **their own records** and include an uncut video of their progress or completion run. The video should be available on YouTube, Twitch (**highlights only**), Vimeo, or Bilibili; Pointercrate does not support any other video-sharing platforms! [More Details](/guidelines/eligibility/#videoreqs)
 
-- To check the status of your submission, players should re-submit the same record using the form on the [Demon List](/demonlist)!
+- To check the status of your submission, players should re-submit the same record using [Record Submitter](/demonlist/?submitter=true) on the Demon List!
 
 - A player has **three days** to respond to a team member's question about a record before that record is automatically rejected. The record will be reconsidered if the player reaches out to a team member after this deadline.
 
 ## Raw Footage
 
-- Raw Footage is **required** for all records without clicks and **strongly encouraged** for all first submissions to the list. Raw footage is defined as the unedited recording of the session, either from a recording software or a livestream. 
+- Raw Footage is **required** for all Demon List records. Raw footage is defined as the unedited video file of the session, either from a recording software or a livestream. 
+  
+- Videos that are edited or compressed in any way (**including videos downloaded from YouTube**) do not qualify for raw footage! Records that include edited raw footage will be rejected, with no exception. However, we will reconsider any rejected record if additional evidence is brought to our attention!
 
-- It is **essential** for either the completion or raw footage to contain *audible clicks* for the entire run. A record without clicks is **nearly guaranteed to be rejected**!
+- Players that wish to submit raw footage **must** provide the file as a **sharable Google Drive Link** in the 'Raw Footage' section of the submission form or in the video description. ***We will not reach out to you for raw footage if you did not provide it to us!*** [More Details](/guidelines/raw/#raw-footage)
 
-- Players that wish to submit raw footage **must** provide it in the 'Notes' section of the submission form or in the video description. ***We will seldom reach out to you if we need raw footage and you did not provide it to us!*** [More Details](/guidelines/raw/#raw-footage)
-
-- Records on mobile devices have [slightly different](/guidelines/raw/#raw-footage-on-mobile) raw footage guidelines due to natural limitations of the device.
-
+- In addition to records with edited video files, submissions with an invalid or inaccessible Google Drive link will also be rejected. Please refer to the [raw footage requirements](/guidelines/rawfootage#requiredraw) for a detailed guide on sharing Google Drive links with us!
+ 
 ## Eligibility
 
 - The run for any record must start at the beginning of the level and last until the submitted progress value. Exiting the level midway through an attempt or using one attempt in Practice Mode does not disqualify a record!
+  
+- It is **essential** for either the completion or raw footage to contain *audible clicks* for the entire run. A record without clicks is **guaranteed to be rejected**!
 
 - Using a skip that does not bypass entire sections of the level or alter the level's hardest parts is generally acceptable, but players should take note of whether the skip is still possible in the rated version of the level. [More Details](/guidelines/eligibility/#skips)
 
@@ -46,10 +54,9 @@ Please note that if there is ever a conflict between these points and the full g
 
 ## Framerate and FPS Counters
 
-- Players may use their monitor's refresh rate or a third-party software at a framerate of up to 360FPS. [More Details](/guidelines/eligibility/#fps)
+- Players may use their monitor's refresh rate or a third-party software at a **maximum framerate of 360FPS**. [More Details](/guidelines/eligibility/#fps)
 
-- An FPS counter is **required** if the player turns off orb pulses, achieves the run in Practice Mode, uses a framerate above 300FPS, or submits a record for a level that uses an in-game "official" song. [More Details](/guidelines/eligibility/#fps)
-
+- An FPS counter is **required** for every record. FPS counters must also be **readable** during the entire attempt corresponding to the record! [More Details](/guidelines/eligibility/#fps)
 
 ## Fixing Bugs
 
@@ -59,7 +66,9 @@ Please note that if there is ever a conflict between these points and the full g
 
 ## LDMs, Texture Packs, and the Smooth Fix
 
-- Low Detail Modes (LDMs) that are built into the original level or uploaded to the Pointercrate account are always eligible for records. Players may also choose to create their own LDMs, but should clear them with the list team in advance. [More Details](/guidelines/ldms/#custom-ldms)
+- Low Detail Modes (LDMs) that are built into the original level, uploaded by the original creator, or uploaded to the Pointercrate account are always eligible for records. LDMs uploaded to the OldPointercrate account are also valid as long as a newer version does not exist on Pointercrate. 
+  
+- Players may also choose to create their own LDMs, but should clear them with the list team in advance. [More Details](/guidelines/ldms/#custom-ldms)
 
 - The most effective way to clear an LDM with the list team is to **share a NoClip run of the level with us**. Players should not simply share a level ID with a team member!
 
