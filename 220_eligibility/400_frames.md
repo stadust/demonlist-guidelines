@@ -2,7 +2,7 @@
 
 # Framerate Guidelines{id=fps}
 
-Geometry Dash typically sets the maximum framerate to the monitor's natural refresh rate. However, software that increases the framerate of the game may be used, **but the framerate must remain at or below 360FPS**. Any record with a higher framerate will be considered hacked, **even if the framerate is achieved through the monitor refresh rate.** Any player that lies about their framerate will be banned from the list. 
+Geometry Dash typically sets the maximum framerate to the monitor's natural refresh rate. Software that increases the framerate of the game may be used, **but the framerate must remain at or below 360FPS**. Any record with a higher framerate will be considered hacked, **even if the framerate is achieved through the monitor refresh rate.** Any player that lies about their framerate or attempts to fake an FPS counter will be banned from the list. 
 
 Although players may use various framerates throughout their raw footage, **players are not permitted to change FPS values midway through a record.** *This is a recent change, so please be mindful of this before submitting new records!*
 
