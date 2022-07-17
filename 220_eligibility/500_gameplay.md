@@ -2,7 +2,7 @@
 
 # Gameplay Changes{id=gameplay}
 
-In general, records are not eligible for the list if the player changed the gameplay from its original state. However, [fixing bugs](/guidelines/eligibility/#bugfixes) is an important exception to this guideline. 
+In general, records are not eligible for the list if the player changed the gameplay in any way from its original state. However, [fixing bugs](/guidelines/eligibility/#bugfixes) is an important exception to this guideline. 
 
 If a list demon uses the in-game two-player mode, *only completions by a single player* are permitted for records on the level.
 
@@ -16,6 +16,6 @@ In addition, a visible endscreen should be easily readable by the viewer. If the
 
 ## Game Version
 
-Although these changes are typically not significant, an in-game update may alter the physics of various gamemodes, which can change the difficulty of passing certain sections of list demons. Because of this inconsistency, **any record that was not achieved on the current version of the game** will not be accepted to the list. 
+Although these changes are typically not significant, an in-game update may alter the physics of various gamemodes, which can change the difficulty of passing certain sections of list demons. Because of this inconsistency, **any record that was not achieved on the current version of the game** will not be accepted to the list. Players that encounter bugs due to changed physics should seek out an approved bugfix instead of completing the level on an old version of Geometry Dash.  
 
 </div>
