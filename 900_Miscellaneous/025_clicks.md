@@ -23,7 +23,7 @@ For Mobile:
 
 ## Separately Recording Clicks
   
-In some cases, players may not be able to record audible clicks using a video recording software. The clicks may be difficult to hear due to a quiet input device, but we will **never** force a player to change their playstyle to qualify for records on the list!
+In some cases, players may not be able to record audible clicks using a video recording software. The clicks could be difficult to hear due to a quiet input device, but we will **never** force a player to change their playstyle to qualify for records on the list!
 
 An acceptable alternative for recording clicks in these cases is **using a separate audio recorder** placed closer to the input device. This method also helps to avoid cases of inaudible clicks due to a recording glitch. **Players that choose to separately record clicks should upload a Google Drive *folder* in the "Raw Footage" field containing both the video and audio!**
   
