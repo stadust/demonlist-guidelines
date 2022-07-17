@@ -2,27 +2,41 @@
 
 # Allowed Hacks
 
-The following list details the hacks (from the "Mega Hack") that we allow for records submitted to the list. *Players should assume that any hack that is not on this list is not allowed*. If you believe that something should be added this list, feel free to contact us through our [Discord server](https://discord.gg/M7bDDQf)!
+The following list details the hacks (from the "Mega Hack") that we allow for records submitted to the list. *Players should assume that any hack that is not on this list is not allowed*. If you believe that something should be added to this list, feel free to contact us through our [Discord server](https://discord.gg/M7bDDQf)!
 
-- FPS Bypass (up to 360FPS)
-- Accurate Percentage Hack
 - 4GB Patch
-- Editor Hack (for [fixing approved bugs](/guidelines/eligibility/#bugfixes) only, **not LDMs**)
-- No Pulse (**with an FPS counter**)
-- No Wave Pulse
-- Wave Pulse Size (**only to decrease the wave pulse size - increasing the size is not allowed!**)
-- No Particles Hack
-- No Transition
-- No Glow
-- Trail Always Off
-- Trail Always On (only if the level does **not** include a section with the Hide Player trigger)
-- Inversed Trail
-- Percentage Only
+- Accurate Percentage Hack
+- Any Run Information
+- Auto Deafen
+- Auto Music Sync
+- Ball Rotation Bug
+- Corrective Music Sync
+- FPS Bypass (up to 360FPS)
+- Fast Reset
+- Hide Attempt Hack
 - Hide Pause Button
 - Ignore ESC
-- Random Icons
-- Hide Attempt Hack ([Raw footage](/guidelines/rawfootage) is __required__)
+- Inversed Trail
+- Invisible Dual Fix
+- No Glow
+- No New Best Popup
+- No Particles Hack
+- No Pulse
+- No Respawn Flash
+- No Spider Dash
+- No Transition
+- No Wave Pulse
+- Percentage Only
 - RGB Icons
-- Fast Reset
+- Random Icons
+- Show Hitboxes (only on death)
+- Solid Wave Trail
+- Stable Pulse
+- Start Pos Switcher (from the start)
+- Trail Always Off
+- Trail Always On (only if the level does not include a section with the Hide Player trigger)
+- Void Click Bug Fix
+- Wave Pulse Size (only to decrease the wave pulse size - increasing the size is not allowed!)
+- Wave Trail Bug Fix
 
 </div>
