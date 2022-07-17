@@ -2,7 +2,7 @@
 
 # Requirements for Raw Footage{id=requiredraw}
 
-Players should be fully aware that providing unedited raw footage with each record is ***absolutely required***. Records that do not include a link to an accessible link to a raw footage file **will be rejected!** Even so, players should also note that having a valid raw footage file **is not a guarantee that the record will be accepted!** It is a very important part of the process, but other guidelines, including having audible clicks and showing the in-game end screen, are equally important for a record to be accepted! 
+Players should be fully aware that providing unedited raw footage with each record is ***absolutely required***. Records that do not include an accessible link to a raw footage file **will be rejected!** Even so, players should also note that having a valid raw footage file **is not a guarantee that the record will be accepted!** It is a very important part of the process, but other guidelines, including having audible clicks and showing the in-game end screen, are equally important for a record to be accepted! 
 
 The guidelines below describe important information for uploading a video file and sharing it through the submission form. Any questions regarding these guidelines should be directed towards a team member!
   
@@ -22,6 +22,8 @@ Invalid raw footage links will be considered equivalent to a failure to provide 
 
 Players should not worry about file size – the most important guideline to follow is that the uploaded video is the **original file from the recording software.** As such, there is **no maximum or minimum file size or video length** necessary for raw footage to be considered. 
 
-Videos that are exceptionally long may exceed the free Google Drive storage limit (15GB); if this is the case, please reach out to a member of the List Team for help! We have an official Gmail account for raw footage that has additional storage space, and players are permitted to log onto this account for the purposes of uploading these files. Please note that this account may only be used for uploading raw footage, and abuse of this system will not be tolerated.
+Videos that are exceptionally long may exceed the free Google Drive storage limit (15GB); if this is the case, please reach out to a member of the List Team for help! We have an official Gmail account for raw footage that has additional storage space, and players are permitted to log onto this account for the purposes of uploading these files. 
+
+Please note that this account may only be used for uploading raw footage, and abuse of this system will not be tolerated. We recommend using clipping software such as OBS Replay Buffer or Shadowplay Instant Replay for players who wish to avoid large file sizes. 
 
 </div>
