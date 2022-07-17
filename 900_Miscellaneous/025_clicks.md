@@ -19,13 +19,20 @@ For PC:
   
 For Mobile:
   
-- iOS Built-in Recorder
+- iOS Built-in Recorder 
+- Record It! (iOS)
+- Android Built-in Recorder, if available
+- DU Recorder (Android)
+- Mobizen (Android)
+- XRecorder (Android)
 
 ## Separately Recording Clicks
   
 In some cases, players may not be able to record audible clicks using a video recording software. The clicks could be difficult to hear due to a quiet input device, but we will **never** force a player to change their playstyle to qualify for records on the list!
+  
+A good way to help ensure audible clicks without using a second recording software is to **record game and microphone audio on two distinct tracks**. Many video recorders on PC have the option to split the game audio and microphone, allowing the volume of the clicks to be adjusted separately if necessary. A video associated with a record is permitted to have edited click volume; however, **please be sure to still send the unedited file as your raw footage!**
 
-An acceptable alternative for recording clicks in these cases is **using a separate audio recorder** placed closer to the input device. This method also helps to avoid cases of inaudible clicks due to a recording glitch. **Players that choose to separately record clicks should upload a Google Drive *folder* in the "Raw Footage" field containing both the unedited video and unedited audio!**
+Another acceptable alternative for recording clicks in these cases is **using a separate audio recorder** placed closer to the input device. This method also helps to avoid cases of inaudible clicks due to a recording glitch. **Players that choose to separately record clicks should upload a Google Drive *folder* in the "Raw Footage" field containing both the unedited video and unedited audio!**
   
 The preferred method of recording separate audio is using an external device, such as a cell phone. Audio recording software on PC is also permitted; however, players are **not allowed to use Audacity** for recording clicks!
 
