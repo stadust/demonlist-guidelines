@@ -8,6 +8,6 @@ Although the list team will never require it, raw footage may also contain a han
 
 ## Liveplays
 
-Similarly, raw footage may include a "liveplay", in which an external camera *records the computer screen for the entire session*. Liveplays will be considered **only if the input device is visible** during the majority of the recording; without this restriction, the player could just externally record a hacked video. Similarly to a handcam, including a liveplay as raw footage will also support the legitimacy of a record.
+Similarly, raw footage may include a "liveplay", in which an external camera *records the computer screen for the entire session*. Liveplays will be considered as additional evidence for a record **only if the input device is visible** during the majority of the recording. Liveplays that do not show an input device will not necessarily be rejected; they will simply be considered equivalent to a screen-recorded video. Similarly to a handcam, including a valid liveplay as raw footage will greatly support the legitimacy of a record.
 
 </div>
