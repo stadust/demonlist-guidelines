@@ -16,6 +16,6 @@ In addition, a visible endscreen should be easily readable by the viewer. If the
 
 ## Game Version
 
-Although these changes are typically not significant, an in-game update may alter the physics of various gamemodes, which can change the difficulty of passing certain sections of list demons. Because of this inconsistency, **any record that was not achieved on the current version of the game** will not be accepted to the list. Players that encounter bugs due to changed physics should seek out an approved bugfix instead of completing the level on an old version of Geometry Dash.  
+Although these changes are typically not significant, an in-game update may alter the physics of various gamemodes, which can change the difficulty of passing certain sections of list demons. Because of this inconsistency, **any record** that was not achieved on the current version of the game or the version in which the level was verified will not be accepted to the list. Note that this guideline permits records achieved on private servers (e.g., the 1.9 GDPS) as long as the list demon was originally verified and published on the server as well.
 
 </div>
