@@ -4,7 +4,23 @@
 
 This webpage archives the various changes the list team has made to the rules and guidelines of the Demon List. At the moment, our only notification system for new changes is in our [Discord server](https://discord.gg/M7bDDQf), so if you are not a member there, it's a good idea to check this section occasionally for new updates.
 
-Changes listed here are ordered from most recent to least recent. **Current version: v1.8**
+Changes listed here are ordered from most recent to least recent. **Current version: v2.0**
+  
+## Changes from v1.8 to v2.0 (7/17/2022)
+  
+- Changed the wording of nearly every guideline on this site - it's been a while! 
+  
+- Added an **absolute requirement** for audible clicks, raw footage, and an FPS counter.
+
+- Changed [raw footage guidelines](/guidelines/rawfootage#requiredraw) to require a **Google Drive link** instead of a YouTube video.
+  
+- Added new guidelines related to the [User Area](/login) and ongoing [LDM Project](https://discord.gg/Ua8M4YJTBw).
+  
+- Updated examples for bugs and skips on levels that are no longer on the list.
+  
+- Updated the list of [allowed hacks](/guidelines/miscellaneous#allowed-hacks) to reflect the latest Mega Hack version.
+  
+- Updated the [Key Takeaways](/guidelines/index#takeaways) and [Player Checklist](/guidelines/miscellaneous#checklist) to reflect these changes.
 
 ## Changes from v1.7 to v1.8 (4/26/2021)
 
