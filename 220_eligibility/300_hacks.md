@@ -12,13 +12,13 @@ Any records involving a player enabling or disabling allowed hacks to change the
 
 ***Any attempt to post an illegitimate (hacked) record while passing it off as not hacked will cause the player to be banned from the stats viewer on this website.*** 
 
-The ban *will be indefinite* until the player confesses to the list team and publicly identifies their illegitimate videos as hacked. In addition, a player publicly encouraging the use of these hacking methods *will be treated as if they submitted a record that used them*, so they will be banned accordingly. The length of the ban after confession is dependent on the severity of the infraction, as well as the player’s ban history. 
+Each ban *will be indefinite* until the player confesses to the list team and publicly identifies their illegitimate videos as hacked. In addition, a player publicly encouraging the use of any hacking methods *will be treated as if they submitted a record that used them*, so they will be banned accordingly. The length of the ban after confession is primarily dependent on the severity of the infraction, the quantity of hacked records, and any attempts to prolong the investigation. 
 
-*Repeated infractions will very likely result in a permanent ban.*
+*A player that continues to submit illegitimate records after confessing to hacking once will be permanently banned with no exception.*
 
 ## Alternate and 'Qwer' Accounts
 
-While not considered a hack, the list team also prohibits alternate accounts for players that have already submitted records under a different name. If a player is caught with more than one account on the list, the new account will be banned permanently, and the individual account will be banned indefinitely until the owner publicly confesses.
+While not considered a hack, the list team also prohibits alternate accounts for players that have already submitted records under a different name. If a player is caught with more than one account on the list, the new account will be banned permanently, and the original account will be banned indefinitely until the owner publicly confesses.
 
 In addition, the list team prohibits 'qwer' accounts that post records from multiple players under a single name. If multiple players are caught submitting records for a single account on the list, the group account will be banned permanently and the individual players recording the videos will be banned indefinitely until each one publicly confesses.
 
