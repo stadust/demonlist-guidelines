@@ -26,4 +26,8 @@ Videos that are exceptionally long may exceed the free Google Drive storage limi
 
 Please note that this account may only be used for uploading raw footage, and abuse of this system will not be tolerated. We recommend using clipping software such as OBS Replay Buffer or Shadowplay Instant Replay for players who wish to avoid large file sizes. 
 
+## Live Streams
+
+Players that use live streams to record their progress on a level may wish to not record a separate video file for performance purposes. In these cases, a link to the **unedited** live stream is an acceptable alternative to raw footage, but players should be prepared to prove that the stream is unedited if asked to do so! One possible method of verifying an unedited live stream is by showing a case of chat interaction.
+
 </div>
