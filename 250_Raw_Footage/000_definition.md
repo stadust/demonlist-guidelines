@@ -10,11 +10,11 @@ To reiterate - **We *require* players to provide raw footage that follow the gui
 
 ## Definition
 
-Raw footage is one of the most important aspects of ensuring that a record can be added to the list, so players should keep in mind the definitions and guidelines that apply to it! In general, “raw footage” is defined as the **original file taken from the player’s recording software**, without any edits, trims, or anything else modifying the file. These edits include but are not limited to trimming the video, editing in the in-game music, and compressing the file in any way.  
+Raw footage is one of the most important aspects of ensuring that a record can be added to the list, so players should keep in mind the definitions and guidelines that apply to it! In general, “raw footage” is defined as the **original file taken from the player’s recording software**, without any edits, trims, or anything else modifying the file. These edits include but are not limited to trimming the video, editing in the in-game music, and compressing the file in any way.
 
 ## Censorship
 
-If the raw footage contains any cuts or splices in the video or audio, it will usually be rendered invalid and will not be considered when evaluating the corresponding record. However, *minor edits* such as censoring or blurring offensive language or personal information are permitted. If you plan to intentionally submit edited raw footage for the purposes of censoring personal information, please **describe the situation in as much detail as necessary in the Notes section** so we can take it into account!
+If the raw footage contains any cuts or splices in the video or audio, it will usually be rendered invalid and will not be considered when evaluating the corresponding record. However, *minor edits* such as censoring or blurring personal information may be permitted. If you plan to intentionally submit edited raw footage for the purposes of censoring personal information, please **describe the situation in as much detail as necessary in the Notes section** so we can take it into account!
   
 Please note that there may be some rare cases in which we would still need unedited raw footage in order to accept a record. If this is the case, **any personal information will be kept confidential** and will not influence our evaluation of the record in any way!
 
