@@ -2,7 +2,7 @@
 
 # Allowed Hacks
 
-The following list details the hacks (from the "Mega Hack") that we allow for records submitted to the list. *Players should assume that any hack that is not on this list is not allowed*. If you believe that something should be added to this list, feel free to contact us through our [Discord server](https://discord.gg/M7bDDQf)!
+The following list details the hacks (from the "Mega Hack") that we allow for records submitted to the list. *Players should assume that any hack that is not on this list is not allowed*. If you believe that something should be added to this list, feel free to contact us through our [Discord server](https://discord.gg/demonlist)!
 
 - 4GB Patch
 - Accurate Percentage Hack
