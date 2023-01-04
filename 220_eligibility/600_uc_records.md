@@ -2,7 +2,7 @@
 
 # Under Consideration Records{id=uc-records}
 
-Although this classification is used for records that are potentially illegitimate, the list team also marks records as Under Consideration (UC) if a certain aspect of a legitimate run may or may not quality under these eligibility guidelines. 
+Although this classification is used for records that are potentially illegitimate, the list team also marks records as Under Consideration (UC) if a certain aspect of a legitimate run may or may not qualify under these eligibility guidelines. 
 
 For instance, the record may feature a custom LDM, bug fix, or skip that requires additional verification before we can add it to the list. 
 
