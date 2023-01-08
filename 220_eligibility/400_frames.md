@@ -8,6 +8,6 @@ Although players may use various framerates throughout their raw footage, **play
 
 ## FPS Counters
 
-An FPS counter is **required for every record submitted to the list.** An FPS counter is defined as an indicator of the player's framerate that is **present and readable** throughout the entire attempt corresponding to the record. Although we will reject records that do not have an FPS counter, a player **will not be banned** unless they attempt to lie about their framerate. 
+An FPS counter is **required for every record submitted to the list.** In addition, users of Mega Hack version 7.0 and above **must use the FPS counter built into the program!** An FPS counter is defined as an indicator of the player's framerate that is **present and readable** throughout the entire attempt corresponding to the record. Although we will reject records that do not have an FPS counter, a player **will not be banned** unless they attempt to lie about their framerate. 
 
 </div>
