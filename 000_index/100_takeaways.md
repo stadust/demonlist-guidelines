@@ -56,7 +56,7 @@ Please note that if there is ever a conflict between these points and the full g
 
 - Players may use their monitor's refresh rate or a third-party software at a **maximum framerate of 360FPS**. [More Details](/guidelines/eligibility/#fps)
 
-- An FPS counter is **required** for every record. FPS counters must also be **readable** during the entire attempt corresponding to the record! [More Details](/guidelines/eligibility/#fps)
+- An FPS counter is **required** for every record, and those who use Mega Hack version 7.0 and above **must use the Mega Hack FPS counter.** FPS counters must also be **readable** during the entire attempt corresponding to the record! [More Details](/guidelines/eligibility/#fps)
 
 ## Fixing Bugs
 
@@ -67,6 +67,8 @@ Please note that if there is ever a conflict between these points and the full g
 ## LDMs, Texture Packs, and the Smooth Fix
 
 - Low Detail Modes (LDMs) that are built into the original level, uploaded by the original creator, or uploaded to the Pointercrate account are always eligible for records. LDMs uploaded to the OldPointercrate account are also valid as long as a newer version does not exist on Pointercrate. 
+  
+- To find a list of currently acceptable LDMs, check out our [LDM spreadsheet](https://docs.google.com/spreadsheets/d/1FqcYP8IwYstIueKWnow9b_07tscVNZBYIZyv-2SrH4o/edit?usp=sharing)!
   
 - Players may also choose to create their own LDMs, but should clear them with the list team in advance. [More Details](/guidelines/ldms/#custom-ldms)
 
