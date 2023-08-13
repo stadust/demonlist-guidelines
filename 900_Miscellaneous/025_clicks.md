@@ -1,5 +1,3 @@
-% miscellaneous
-
 <div class='panel fade js-scroll-anim' data-anim='fade'>
   
 # Recording Clicks{id=clicks}
