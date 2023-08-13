@@ -8,7 +8,7 @@ For each rated level believed to be list-worthy, we seek out opinions from each 
 
 Even if the level does not have a clear consensus, or if the opinions have a lot of variability, we may still place it if it becomes clear that no new victors will emerge anytime soon. We place levels in this manner to encourage more players to complete them for list points, but these placements are likely to change when we start seeing new victors with updated opinions. 
 
-We will place a list-worthy level no more than **one month** after it gets rated in-game, even if it has little to no victors. Such levels are highly subject to change in the future as players eventually complete them. 
+We will place a list-worthy level no more than **one month** after it gets rated in-game, even if it has little to no victors. Levels using the 2-player gamemode may be subject to an extended deadline to more accurately gauge difficulty.
 
 Please note that these guidelines does __not__ apply to levels with a hacked verification; the one-month timeline for a hacked level begins after it receives its first legitimate victor.
   
