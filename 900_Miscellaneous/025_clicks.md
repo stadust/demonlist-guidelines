@@ -8,7 +8,7 @@ Any record that does not include audible clicks throughout the corresponding att
 
 Records are **required** to have **at least two distinct audio tracks** in order to be accepted. Every player is given a **one time exception** for this requirement. **Clicks must be on their own separate audio track** in order to satisfy this requirement. If you are having trouble setting up your recording software to use multiple audio tracks, please contact a team member for assistance!
 
-Records with raw footage from **livestreams, liveplays, or mobile devices** are exempt from the above requirement. However, by providing a recording with two audio tracks along with one of these exemptions, it will *significantly improve your legitimacy.*
+Records with raw footage from **livestreams, liveplays, or mobile devices** are exempt from the above requirement. However, by providing a recording with two audio tracks along with one of these exemptions, it will *significantly improve your legitimacy.* You may also choose only record your clicks *without your desktop* audio as well.
 
 If you would like to use a secondary audio device to record your clicks, that is also permitted! Refer to the guidelines below for separately recording your clicks.
 
