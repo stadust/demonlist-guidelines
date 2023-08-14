@@ -8,6 +8,12 @@ It should be noted that, per the [framerate guidelines](/guidelines/eligibility/
   
 Any records involving a player enabling or disabling allowed hacks to change the difficulty of the level will be rejected!
 
+## Mega Hack v7
+
+In addition to using only [allowed hacks](/guidelines/miscellaneous/#allowed-hacks), users of Mega Hack v7 and above are expected to follow additional requirements:
+- Cheat indicator on endscreen must remain enabled (this should be enabled by default)
+- The FPS counter built into Mega Hack must be enabled
+
 ## Player Bans
 
 ***Any attempt to post an illegitimate (hacked) record while passing it off as not hacked will cause the player to be banned from the stats viewer on this website.*** 
