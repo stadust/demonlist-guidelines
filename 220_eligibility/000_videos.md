@@ -10,4 +10,8 @@ Players should also note that each submission must include a video or raw footag
 
 It should be noted that players who mistakenly exit the level midway through an attempt are *still eligible to submit a record as if they had died at the percentage they reached*. This guideline also applies to players that pause the game with the "Hide Pause Menu" hack enabled, as this hack is not allowed for list records. A run is also eligible for a record if it was achieved with a single attempt from 0% in Practice Mode.
 
+## 2-Player Levels
+
+In order to verify that records were achieved by a single player, levels using the 2-player gamemode **require a handcam showing both inputs** to be present throughout the record. This handcam must be present in the raw footage but may be excluded from the public video.
+
 </div>
