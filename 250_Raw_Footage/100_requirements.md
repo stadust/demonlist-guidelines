@@ -20,7 +20,7 @@ Invalid raw footage links will be considered equivalent to a failure to provide 
 
 ### File Size
 
-Players should not worry about file size – the most important guideline to follow is that the uploaded video is the **original file from the recording software.** As such, there is **no maximum or minimum file size or video length** necessary for raw footage to be considered. 
+Players should not worry about file size – the most important guideline to follow is that the uploaded video is the **original file from the recording software.** A raw footage of 5 to 15 minutes at moderately high quality is usually recommended; however, there is **no maximum or minimum file size or video length** necessary for raw footage to be considered.
 
 Videos that are exceptionally long may exceed the free Google Drive storage limit (15GB); if this is the case, please reach out to a member of the List Team for help! We have an official Gmail account for raw footage that has additional storage space, and players are permitted to log onto this account for the purposes of uploading these files. 
 
