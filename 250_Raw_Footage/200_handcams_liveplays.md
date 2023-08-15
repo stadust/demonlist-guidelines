@@ -4,7 +4,9 @@
 
 ## Handcams
 
-Although the list team will never require it, raw footage may also contain a handcam. A handcam for this purpose is defined as a clear, continuous view of the player’s input device (e.g. a mouse) during the majority of the session. Raw footage with a handcam will *greatly support the player’s legitimacy* because they are considerably difficult to fake in a hacked record.
+Although the list team does not require it for most levels, raw footage may also contain a handcam. A handcam for this purpose is defined as a clear, continuous view of the player’s input device (e.g. a mouse) during the majority of the session. Raw footage with a handcam will *greatly support the player’s legitimacy* because they are considerably difficult to fake in a hacked record.
+
+In order to verify that a record was achieved by a single player, **levels using the 2-player gamemode require a handcam to be present throughout raw footage!**
 
 ## Liveplays
 
