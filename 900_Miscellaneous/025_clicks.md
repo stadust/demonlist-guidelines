@@ -1,20 +1,18 @@
-% miscellaneous
-
 <div class='panel fade js-scroll-anim' data-anim='fade'>
   
 # Recording Clicks{id=clicks}
 
 Any record that does not include audible clicks throughout the corresponding attempt **will be rejected with no exception**, even if the lack of clicks is accidental. As such, it is important to determine a method of recording clicks that consistently works well with your playing setup!
 
-Records are **required** to have **at least two distinct audio tracks** in order to be accepted. Every player is given a **one time exception** for this requirement. **Clicks must be on their own separate audio track** in order to satisfy this requirement. If you are having trouble setting up your recording software to use multiple audio tracks, please contact a team member for assistance!
+Records are **required** to have **at least two distinct audio tracks** in order to be accepted. **Clicks must be on their own separate audio track** in order to satisfy this requirement. Every player is given a **one time exception** for this requirement. If you are having trouble setting up your recording software to use multiple audio tracks, please contact a team member for assistance!
 
-Records with raw footage from **livestreams, liveplays, or mobile devices** are exempt from the above requirement. However, by providing a recording with two audio tracks along with one of these exemptions, it will *significantly improve your legitimacy.* You may also choose only record your clicks *without your desktop* audio as well.
+Records with raw footage from **livestreams, liveplays, or mobile devices** are exempt from the above requirement. Providing a recording with two audio tracks along with one of these exemptions will *significantly support your legitimacy.* If you are unable to record with multiple audio tracks, you may also choose only record your clicks *without desktop audio* as well.
 
 If you would like to use a secondary audio device to record your clicks, that is also permitted! Refer to the guidelines below for separately recording your clicks.
 
 **Before submitting a record to the list**, players should be sure to test their recording setup in order to proactively fix any issues with recording clicks. If you are having trouble with recording audible clicks, please refer to the guidelines below or contact a team member for assistance!
   
-Our preferred method of recording clicks is using any recording software that can register inputs from a microphone and blend them well with background audio. The lists below provide some examples of effective software for recording clicks. You may choose to use other programs as well, but **be sure that the clicks are audible in the video file without any editing!**
+Below are some examples of effective software for recording both video and clicks. You may choose to use other programs as well, but **be sure that the clicks are audible in the video file without any editing!**
   
 For PC:
   
