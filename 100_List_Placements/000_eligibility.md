@@ -10,7 +10,9 @@ Although the Legacy List contains levels that are easier than anything in the Ex
 
 In addition, the list focuses on levels completed **by a single player**, even if the level itself uses the 2-player gamemode. For instance, "Codependence" was originally verified by two players but was not placed until it had been completed by a single player. 
 
-A rated level is only guaranteed to be considered if it has a corresponding legitimate verification video. Levels with hacked verifications that remain rated may be placed as long as it has at least one legitimate victor. Level hosts may choose to identify this victor as the official verifier per [our verifier guidelines](/guidelines/listplacements/#creators).
+A rated level is only guaranteed to be considered if it has a corresponding legitimate verification video. Levels with hacked verifications that remain rated may be placed as long as it has at least one legitimate victor. Level hosts may choose to identify this victor as the official verifier per [our verifier guidelines](/guidelines/listplacements/#creators). 
+
+Verifiers must also provide the same proof as a normal victor would. This means that the verifier must provide valid raw footage that meets all of the guidelines outlined on this website. If the verifier fails to provide proper proof, the level will listed without a verifier. The first player to beat the level meeting the current proof standards will be listed as the official verifier.
 
 
 </div>
