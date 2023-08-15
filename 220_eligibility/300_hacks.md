@@ -8,7 +8,7 @@ It should be noted that, per the [framerate guidelines](/guidelines/eligibility/
   
 Any records involving a player enabling or disabling allowed hacks to change the difficulty of the level will be rejected!
 
-## Mega Hack v7
+## Mega Hack v7{id=mhv7}
 
 In addition to using only [allowed hacks](/guidelines/miscellaneous/#allowed-hacks), users of Mega Hack v7 and above are expected to follow additional requirements:
 - Cheat indicator on endscreen must remain enabled (this should be enabled by default)

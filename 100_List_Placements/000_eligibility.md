@@ -2,7 +2,7 @@
 
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
-# Level Eligibility
+# Level Eligibility{id=placementeligibility}
 
 A level **must be rated Demon in-game** in order to be considered for placement on the Demon List. By using RobTop's rating system as a standard for list placement, we avoid the otherwise inevitable scenario of the list being filled with nearly impossible challenges or "joke" levels. At no point will there ever be a list that covers unrated levels, as it would be highly variable and difficult to maintain. 
 
