@@ -8,7 +8,7 @@ Players are *strongly advised* to clear any custom LDMs with the team before usi
 
 Players that need to clear an LDM with the team should **share a NoClip run of the level with us** so we can respond to your request quickly. Simply sharing an ID with the team is not recommended!
   
-Players may also choose to play on a custom LDM created by someone outside of the list team, but doing so **carries the risk of a rejected record** for a heavy LDM! Even if an LDM has been approved in the past, it is always recommended to ask the list team whether it is still acceptable under current guidelines. Players should refer to the [LDM spreadsheet](https://docs.google.com/spreadsheets/d/1FqcYP8IwYstIueKWnow9b_07tscVNZBYIZyv-2SrH4o/edit?usp=sharing) for a list of approved LDMs.
+Players may also choose to play on a custom LDM created by someone outside of the list team, but doing so **carries the risk of a rejected record** for a heavy LDM! Even if an LDM has been approved in the past, it is always recommended to ask the list team whether it is still acceptable under current guidelines. Players should refer to our [LDM spreadsheet](https://docs.google.com/spreadsheets/d/1FqcYP8IwYstIueKWnow9b_07tscVNZBYIZyv-2SrH4o/edit?usp=sharing) for a list of approved LDMs.
 
 ## Custom LDM Guidelines
 
