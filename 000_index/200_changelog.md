@@ -12,7 +12,7 @@ Changes listed here are ordered from most recent to least recent. **Current vers
 
 - Additionally, users of Mega Hack v7 have their own [requirements](/guidelines/eligibility#mhv7) they must follow.
 
-- Updated/Added new guidelines for 2 player levels, including a requirement for handcams.
+- Updated/Added new guidelines for 2-player levels, including a requirement for handcams.
 
 - Updated [raw footage guidelines](/guidelines/rawfootage#requiredraw) to suggest players to use clips instead of full session recordings.
 
