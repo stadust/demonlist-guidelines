@@ -10,13 +10,9 @@ Changes listed here are ordered from most recent to least recent. **Current vers
 
 - Added [Two Track Audio requirement](/guidelines/miscellaneous#clicks) for raw footage.
 
-- Updated the list of [allowed hacks](/guidelines/miscellaneous#allowed-hacks) spreadsheet to reflect the latest Mega Hack additions.
-
 - Additionally, users of Mega Hack v7 have their own [requirements](/guidelines/eligibility#mhv7) they must follow.
 
 - Updated/Added new guidelines for 2 player levels, including a requirement for handcams.
-
-- Updated the link to the LDM Project Discord Server to a direct link to the LDM Spreadsheet.
 
 - Updated [raw footage guidelines](/guidelines/rawfootage#requiredraw) to suggest players to use clips instead of full session recordings.
 
