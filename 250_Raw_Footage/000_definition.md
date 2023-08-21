@@ -14,6 +14,8 @@ Raw footage is one of the most important aspects of ensuring that a record can b
 
 ## Censorship
 
-If the raw footage contains any cuts or splices in the video or audio, it will be rendered invalid and will end up in a record being rejected. We understand that sometimes your raw footage may contain personal information. Editing the raw footage to remove this information will result in your raw footage being considered invalid. Rest assured, **any personal information will be kept confidential** and only be accessible to members of the team. We understand this may be uncomfortable for some, but it must be this way to lower the chances of cheated records on the list.
+If the raw footage contains any cuts or splices in the video or audio, it will usually be rendered invalid and will not be considered when evaluating the corresponding record. However, *minor edits* such as censoring or blurring personal information may be permitted. If you plan to intentionally submit edited raw footage for the purposes of censoring personal information, please **describe the situation in as much detail as necessary in the Notes section** so we can take it into account!
+
+Please note that, in most cases, we would still need unedited raw footage in order to accept a record. If this is the case, **any personal information will be kept confidential** and will not influence our evaluation of the record in any way!
 
 </div>
