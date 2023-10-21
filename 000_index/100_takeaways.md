@@ -10,9 +10,9 @@ Please note that if there is ever a conflict between these points and the full g
 
 ## User Area
   
-- Pointercrate features a [User Area](/login) in which players may create a profile associated with their player on the Demon List. Features such as [setting a player location](/guidelines/miscellaneous#location) and locking submissions from other players can be accessed here!
+- Pointercrate features a [User Area](/login) in which players may create a profile associated with their player on the Demon List. Features such as [setting a player location](/guidelines/miscellaneous#location), checking record status and locking submissions from other players can be accessed here!
   
-- Any questions regarding claiming a player using your Pointercrate account or using the User Area should be directed to the staff at [Pointercrate Central](https://discord.gg/sQewUEB)!
+- Any questions regarding claiming a player using your Pointercrate account or using the User Area should be directed to the staff at [Pointercrate Central](https://discord.gg/sQewUEB). Please read the pinned messages in this server before submitting a player claim!
   
 ## Submissions
 
@@ -38,7 +38,7 @@ Please note that if there is ever a conflict between these points and the full g
 
 - The run for any record must start at the beginning of the level and last until the submitted progress value. Exiting the level midway through an attempt or using one attempt in Practice Mode does not disqualify a record!
   
-- It is **essential** for either the completion or raw footage to contain *audible clicks* for the entire run. A record without clicks is **guaranteed to be rejected**! Details about recording clicks can be found [here](/guidelines/miscellaneous#checklist).
+- It is **essential** for either the completion or raw footage to contain *audible clicks* for the entire run. In most cases, raw footage must also include an audio track of **isolated clicks**. A record without clicks is **guaranteed to be rejected**! Details about recording clicks can be found [here](/guidelines/miscellaneous#checklist).
 
 - Using a skip that does not bypass entire sections of the level or alter the level's hardest parts is generally acceptable, but players should take note of whether the skip is still possible in the rated version of the level. [More Details](/guidelines/eligibility/#skips)
 

@@ -4,7 +4,27 @@
 
 This webpage archives the various changes the list team has made to the rules and guidelines of the Demon List. At the moment, our only notification system for new changes is in our [Discord server](https://discord.gg/M7bDDQf), so if you are not a member there, it's a good idea to check this section occasionally for new updates.
 
-Changes listed here are ordered from most recent to least recent. **Current version: v2.0**
+Changes listed here are ordered from most recent to least recent. **Current version: v2.2**
+
+## Changes from v2.1 to v2.2 (8/14/2023)
+
+- Added [Two Track Audio requirement](/guidelines/miscellaneous#clicks) for raw footage.
+
+- Additionally, users of Mega Hack v7 have their own [requirements](/guidelines/eligibility#mhv7) they must follow.
+
+- Updated/Added new guidelines for 2-player levels, including a requirement for handcams.
+
+- Updated [raw footage guidelines](/guidelines/rawfootage#requiredraw) to suggest players to use clips instead of full session recordings.
+
+- Added requirement for [verifiers to provide the same proof standards](/guidelines/listplacements#placementeligibility) as normal completions.
+
+- Updated the [location feature](/guidelines/miscellaneous#location) to allow for manual location changes from moderators.
+
+## Changes from v2.0 to v2.1 (1/08/2023)
+
+- Added in-mod fps counter requirement for Mega Hack v7+ users
+
+- Replaced old allowed hacks list with a comprehensive spreadsheet
   
 ## Changes from v1.8 to v2.0 (7/17/2022)
   
@@ -66,7 +86,7 @@ Changes listed here are ordered from most recent to least recent. **Current vers
 
 - Expanded the texture pack guidelines to prohibit anything that makes the text of the endscreen unreadable.,
 
-## Changes from v1.4 to v1.5 (12/5/2020)
+## Changes from v1.4 to v1.5 (12/05/2020)
 
 - Transferred the original PDF document to the Pointercrate website, with similar organization to the [documentation](/documentation). The original PDF is now deprecated and will no longer be updated.
 
