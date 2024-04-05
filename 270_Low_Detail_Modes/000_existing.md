@@ -8,7 +8,7 @@
 
 Completing a level with an LDM built into the rated version on the servers will always be acceptable for records on the list.
 
-LDMs published by a level’s creator are also acceptable for records as long as they match the gameplay of the rated level on the servers.
+LDMs published by a level’s creator are also acceptable for records as long as they match the gameplay of the rated version on the servers.
 
 ## Pointercrate Account
 
