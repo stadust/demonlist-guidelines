@@ -8,12 +8,10 @@ Any texture packs that make the gameplay of the level easier by altering decorat
 
 Texture packs that visibly alter hitboxes (e.g. spikes, but **not** player icons) to make them perceptively easier to avoid are also disallowed.
 
-In addition, players are not permitted to use texture packs that make the text within the in-game endscreen impossible to read.
+In addition, players should not use texture packs that make the text within the in-game endscreen impossible to read.
 
 ## Shaders
 
-A *shader* is generally defined as any external software that alters the visual appearance of the game, such as ReShade. A shader may function similarly to a texture pack if it changes the display of in-game textures, but shaders could also change certain properties (e.g. brightness, blur) of in-game colors. 
-
-Changing the appearance of textures and colors could adversely affect the difficulty of a list demon (e.g. by making parts brighter or darker than normal), so the use of any shader is also **prohibited for records on the list.**
+A *shader* is generally defined as any external software that alters the visuals of the game (e.g. glow, motion blur). The use of any shader is **prohibited for records on the list.**
 
 </div>
