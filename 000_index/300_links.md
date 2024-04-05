@@ -2,7 +2,7 @@
 
 # Section Links
 
-These guidelines are split into two main sections: one that covers **level placements** and one that covers **record management**. Although each section of these guidelines is located in the table of contents to the right, we understand that the list is quite long, so a list of links to the important sections could be helpful.
+Although each section of these guidelines is located in the table of contents to the right, we understand that the list is quite long, so links to the most important sections are included here.
 
 ## Level Placements
 
@@ -37,8 +37,6 @@ These guidelines are split into two main sections: one that covers **level place
 - [Low Detail Modes](/guidelines/lowdetailmodes)
 
 - [Records After Level Updates](/guidelines/levelupdates/#records-after-level-updates)
-
-- [Manual Record Removal](/guidelines/records/#manual-record-removal)
 
 - [Allowed Hacks](/guidelines/miscellaneous/#allowed-hacks)
 
