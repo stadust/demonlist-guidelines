@@ -2,7 +2,7 @@
 
 # Under Consideration Records{id=uc-records}
 
-Records are marked as Under Consideration (UC) if a run is suspected to be illegitimate, if a certain aspect of a legitimate run may not be acceptable under current guidelines, or if a record cannot be throughoughly checked. If your record is marked as UC, check if the list team has contacted you for further information.
+Records are marked as Under Consideration if a run is suspected to be illegitimate, if a certain aspect of a legitimate run may not be acceptable under current guidelines, or if a record cannot be throughoughly checked. If your record is marked as UC, check if the list team has contacted you for further information.
 
 ## High Suspicion 
 
