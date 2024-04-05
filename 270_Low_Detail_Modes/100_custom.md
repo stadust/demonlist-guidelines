@@ -10,7 +10,7 @@ Players may choose to play on a custom LDM created by someone else, but doing so
 
 A custom LDM may not *delete or otherwise alter any object that obstructs the player’s vision*. All gameplay must be kept exactly the same as the original level.
 
-Additionally, no part of the LDM should look visually "empty" compared to the original level.
+No part of the LDM should look visually "empty" compared to the original level.
 
 Make sure that the length of the LDM is the same length as the original level when removing an endscreen.
 
