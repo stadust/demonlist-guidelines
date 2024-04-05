@@ -2,7 +2,7 @@
 
 # Eligibility of Hacks{id=hacks}
 
-Although the list team allows certain hacks for records on the list, a player *may not submit a record obtained using hacks* designed to __alter or bypass__ the gameplay in any way. This guideline includes but is not limited to Noclip, GDBot/XBot/YBot, Macros, and Speedhacks. Please refer to [this section](/guidelines/miscellaneous/#allowed-hacks) for a list of allowed hacks for records on the Demon List.
+Although the list team allows certain hacks for records on the list, a player *may not submit a record obtained using hacks* designed to __alter or bypass__ the gameplay in any way. Please refer to [this section](/guidelines/miscellaneous/#allowed-hacks) for a list of allowed hacks for records on the Demon List.
 
 It should be noted that, per the [framerate guidelines](/guidelines/eligibility/#fps) players are **no longer** allowed to use the FPS bypass to change the in-game framerate in the middle of an attempt. Players are also **prohibited** from changing the state of other allowed hacks after the start of an attempt if this change is intended to alter the difficulty of the level. 
   
@@ -16,7 +16,7 @@ In addition to using only [allowed hacks](/guidelines/miscellaneous/#allowed-hac
 
 ## Player Bans
 
-***Any attempt to post an illegitimate (hacked) record while passing it off as not hacked will cause the player to be banned from the stats viewer on this website.*** 
+***Any attempt to post an illegitimate (hacked) record while passing it off as legitimate will cause the player to be banned from the stats viewer on this website.*** 
 
 Each ban *will be indefinite* until the player confesses to the list team and publicly identifies their illegitimate videos as hacked. In addition, a player publicly encouraging the use of any hacking methods *will be treated as if they submitted a record that used them*, so they will be banned accordingly. The length of the ban after confession is primarily dependent on the severity of the infraction, the quantity of hacked records, and any attempts to prolong the investigation. 
 
