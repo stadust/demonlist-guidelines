@@ -2,7 +2,7 @@
 
 # Skips
 
-Skips are divided into *three distinct classifications*, ranging from insignificant orb skips to bypassing entire sections of the level. Any skip's eligibility will be decided by the list team, **players are highly encouraged to check with the List Team before using a skip!**
+Skips are divided into *three distinct classifications*, ranging from insignificant orb skips to bypassing entire sections of the level. The eligibility of any skip will be decided by the list team. **Players are highly encouraged to check with the List Team before using a skip!**
 
 ## Type I - Always Allowed{id=type1}
 
