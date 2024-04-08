@@ -2,7 +2,7 @@
 
 # Fixing Bugs{id=bugfixes}
 
-Bugfixes may be acceptable for gameplay that is made *impossible or unreasonably more difficult* by physics changes or certain framerates. ***Players should always verify custom bug fixes with the list team before using them!***
+Bug fixes may be acceptable for gameplay that is made *impossible or unreasonably more difficult* by physics changes or certain framerates. ***Players should always verify custom bug fixes with the list team before using them!***
 
 ## Illegal Bug Fixes
 
