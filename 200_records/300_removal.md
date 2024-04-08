@@ -6,6 +6,6 @@ Any player who has records on the list may request for them to be removed at any
 
 If the player is a verifier of one or more list demons, they will still be listed as such on the level pages. However, they will remain invisible on the stats viewer.
 
-*Please be aware that the submission form will notify you that you are banned from the stats viewer if you have requested record removal.*
+*Please be aware that the submission form will say that you are banned from the stats viewer if you have requested record removal.*
 
 </div>
