@@ -7,8 +7,6 @@ In order to submit a record, you must include a video and [raw footage](/guideli
 The video must be available on YouTube, Twitch, Vimeo, or Bilibili in order for it to be added to the list. For Twitch, highlights are the only acceptable form of video proof. The link you provide must also be a ["well-formed" URL](/documentation/index/#video). 
 
 **Using the submission form to send records for other players is strongly discouraged.** Any user that submits a record as a joke will be banned from submitting any additional records.
-  
-Players that are linked to a Pointercrate profile in the [User Area](/login) have the option to block submissions from other users by enabling the "Lock Submissions" feature in the List Integration tab.
 
 ## Legacy Records{id=legacy}
 
