@@ -4,7 +4,7 @@
 
 # Raw Footage
 
-Raw footage is defined as the **original file taken from the player’s recording software**, without any edits, trims, or anything else modifying the file. This includes but is not limited to trimming the video, editing in music, and compressing the file in any way.
+Raw footage is defined as the **original file taken from the player’s recording software** without any modifications. This includes but is not limited to trimming the video, editing in music, or compressing the file in any way.
 
 Players are **required** to provide valid raw footage for every record.
 
