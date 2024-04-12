@@ -4,7 +4,7 @@
 
 # Player Checklist{id=checklist}
 
-This checklist summarizes the most essential steps players should take to minimize delays in getting their record approved!
+This checklist summarizes the most essential steps players should take to minimize delays in getting their record approved! More information can be found in the linked sections of the guidelines.
 
 - Complete the level on the rated version on the servers or on an "official" copy uploaded to the Pointercrate account.<br><br>
 - If you beat the level on a copy, clear it with the list team first! This includes but is not limited to [LDMs](/guidelines/lowdetailmodes/) and [bug fixes](/guidelines/eligibility/#bugfixes).<br><br>
