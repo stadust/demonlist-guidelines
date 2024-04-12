@@ -1,6 +1,6 @@
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
-# Records After Level Updates
+# Level Updates
 
 An update to a level that significantly increases its difficulty will cause all existing records for the level to be removed. Records will be maintained if the level maintains a similar difficulty or is nerfed.
 
