@@ -8,8 +8,6 @@ Although these guidelines aim to cover all things Demon List related, they are n
 
 ## Guideline Exceptions
 
-Whenever a new guideline is released, we understand that players may mistakenly overlook new policies, especially in regard to record submission.
-
-On a case-by-case basis, the list team may decide to grant a *one-time exception* for these scenarios and inform the player of what should be done in the future. **Asking the team for an exception does not increase your likelihood of receiving one!**
+Whenever a new guideline is released, we understand that players may be unaware of recent changes. On a case-by-case basis, the list team may decide to grant a *one-time exception* for these scenarios and inform the player of what should be done in the future. **Asking the team for an exception does not increase your likelihood of receiving one!**
 
 </div>
