@@ -13,7 +13,7 @@ This checklist summarizes the most essential steps players should take to minimi
 - Make sure that your click sounds are clearly audible and isolated in your raw footage (see [2TA requirements](/guidelines/miscellaneous#clicks)). Barely audible clicks are considered equivalent to no clicks and will result in a rejected record.<br><br>
 - Do not skip the dropdown endscreen after a completion! This will warrant an immediate rejection of your record.<br><br>
 - Be sure to enable a readable [FPS counter](/guidelines/eligibility#fps) for all records!<br><br>
-- Users of Mega Hack and other mods are subject to [additional requirements](/guidelines/eligibility/#hacks)<br><br>
+- Users of Mega Hack and other mods are subject to [additional requirements](/guidelines/eligibility#hacks)<br><br>
 - If you record a liveplay (e.g. with your phone camera), make sure that your monitor screen is clearly visible! Any questions regarding liveplay visibility should be directed towards a member of the list team.
 
 </div>
