@@ -1,5 +1,3 @@
-% updates
-
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
 # Records After Level Updates
@@ -19,6 +17,5 @@ The only other change that may take place is for a fixed Type II skip, in which 
 A level may be updated to include a strong LDM or "Ultra" LDM that would not normally be accepted. 
 
 Records that were [rejected for a strong LDM](/guidelines/lowdetailmodes/#custom-ldms) before such an update *will be re-considered for addition to the list* in accordance to the new LDM on the rated level.
-
 
 </div>
