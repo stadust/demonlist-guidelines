@@ -8,7 +8,7 @@ When a player submits a record on Pointercrate, it is automatically assigned an 
 
 ## Under Consideration Records{id=uc}
 
-[Under consideration](/guidelines/eligibility/#uc-records) indicates that the list team is not immediately sure whether the record is acceptable, but it **does not** necessarily mean that we're suspicious of hacking.
+[Under consideration](/guidelines/eligibility/#uc-records) indicates that the list team is not immediately sure whether the record is acceptable, but it **does not** necessarily mean there is suspicion of hacking.
 
 In many cases, the list team will reach out for additional information regarding a record marked as under consideration. *A player has **three days** to respond to each request from a list team member before their record will be automatically rejected.* However, a player may still reach out to a team member after this deadline for their record to be reconsidered.
 
