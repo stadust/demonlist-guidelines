@@ -2,7 +2,7 @@
 
 # Adding a Record{id=additions}
 
-When a player submits a record on Pointercrate, it is automatically assigned an ID number based on when it was submitted. The oldest submitted records are generally checked first; however, records are occasionally added out of order, so seeing another record getting added before yours does not necessarily mean your record was rejected.
+Submitted records are automatically assigned an ID number based on when they were submitted. The oldest submitted records are generally checked first; however, records are occasionally added out of order, so seeing another record getting added before yours does not necessarily mean your record was rejected.
 
 *Players can check the status of their record by re-submitting it on the submission form or by checking their profile in the [User Area](/login).*
 
@@ -16,6 +16,6 @@ In many cases, the list team will reach out for additional information regarding
   
 If a submitted record does not satisfy the submission guidelines listed here, the record will be rejected.
 
-When rejecting a record, a list team member will often include a **Public Note** regarding the reasons for rejection, which can be viewed in the [**User Area**](/login). If you believe your record was wrongfully rejected, or if you have additional evidence to share with us, feel free to reach out to a team member - we will be happy to reconsider it!
+A list team member will often include a **Public Note** regarding the reasons for rejection, which can be viewed in the [**User Area**](/login). If you believe your record was wrongfully rejected, or if you have additional evidence to share with us, feel free to reach out to a team member!
 
 </div>
