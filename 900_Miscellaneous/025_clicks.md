@@ -25,7 +25,7 @@ For Mobile:
 
 ## Separately Recording Clicks
 
-Players may record clicks using a separate device such as a phone or other audio recorder. Audio recording software is also permitted; however, players are **not allowed to use Audacity** for recording clicks. Players that choose to do this should submit a Google Drive *folder* in the "Raw Footage" field containing both the raw footage and raw audio file.
+Players may record clicks using a separate device such as a phone or other audio recorder. Audio recording software is also permitted; however, players are **not allowed to use Audacity** for recording clicks. Players that choose to do this should submit a Google Drive *folder* in the "Raw Footage" field containing both the raw footage and the raw audio file.
 
 If you have any questions about recording clicks, feel free to reach out to a team member through our [Discord server](https://discord.gg/demonlist)!  
 
