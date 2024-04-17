@@ -10,8 +10,8 @@ Each ban *will be indefinite* until the player confesses to the list team and pu
 
 ## Alternate and 'Qwer' Accounts
 
-Alternate accounts are prohibited for players that have already submitted records under a different name. If a player is caught with more than one account on the list, the alternate account(s) will be removed and the original account will be banned indefinitely until the owner publicly confesses.
+Alternate accounts are prohibited for players that have already submitted records under a different name. If a player is caught with more than one account on the list, the alternate account(s) will be removed, and the original account will be banned indefinitely until the owner publicly confesses.
 
-In addition, the list team prohibits 'qwer' accounts where multiple players submit records under a single name. These accounts will be banned permanently and the players involved will be banned indefinitely until each one publicly confesses.
+In addition, the list team prohibits 'qwer' accounts where multiple players submit records under a single name. These accounts will be banned permanently, and the players involved will be banned indefinitely until each one publicly confesses.
 
 </div>
