@@ -6,7 +6,7 @@ Bug fixes may be acceptable for gameplay that is made *impossible or unreasonabl
 
 ## Illegal Bug Fixes
 
-Be aware of the differences between bugs and general inconsistencies! Using illegal bugfixes will cause your record to be rejected.
+Be aware of the differences between bugs and general inconsistencies! Using illegal bug fixes will cause your record to be rejected.
 
 Submitting an illegal bug fix alone is not grounds for a player ban; however, repeatedly submitting prohibited bug fixes prior to clearing them with the team *may result in a player ban*.
 
