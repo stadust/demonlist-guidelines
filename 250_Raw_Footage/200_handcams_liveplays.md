@@ -10,8 +10,8 @@ In order to verify that a record was achieved by a single player, **levels using
 
 ## Liveplays
 
-Liveplays are recordings in which an external camera records the players screen.
+Liveplays are recordings in which an external camera records the player's screen.
   
-Be aware that poor viewing angles could result in low visibility which may lead to a rejected record. If you have any concerns regarding the visibility of a liveplay setup, please reach out to a team member for assistance!
+Bad viewing angles could result in low visibility, which may lead to a rejected record. If you have any concerns regarding the visibility of a liveplay setup, please reach out to a team member for assistance!
 
 </div>
