@@ -14,4 +14,9 @@ No part of the LDM should look visually "empty" compared to the original level.
 
 The length of the LDM should be the exact same as the original level.
 
+## Player Altered Decoration
+
+Altered decoration that affects difficulty in any way, adds an unnecessary amount of clutter, or contains hate speech will lead to a record rejection.
+
+
 </div>
