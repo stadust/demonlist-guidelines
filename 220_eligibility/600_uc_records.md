@@ -6,7 +6,7 @@ Records are marked as Under Consideration if a run is suspected to be illegitima
 
 ## High Suspicion 
 
-A record may be rejected due to high suspicion of a [hacked completion](/guidelines/eligibility/#hacks), but the player **will not be banned** unless conclusive evidence for illegitimacy is found.
+A record may be rejected due to high suspicion of a [hacked completion](/guidelines/eligibility/#hacks), but a player **will not be banned** unless conclusive evidence of illegitimacy is found.
 
 As such, players are encouraged to include strong indicators of a legitimate completion, such as moderate to high video quality, streams, and/or progress videos.
 
