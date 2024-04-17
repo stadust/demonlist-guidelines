@@ -1,3 +1,5 @@
+% records
+
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
 # Submitting a Record{id=submissions}
