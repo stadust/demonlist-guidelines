@@ -6,9 +6,9 @@ This archives the various changes the list team has made to the rules and guidel
 
 Changes listed here are ordered from most recent to least recent. **Current version: v2.3**
 
-## Changes from v2.2 to v2.3 (4/17/2024)
+## Changes from v2.2 to v2.3 (4/18/2024)
 
-- Removed lots of redundant text from all sections, guidelines should be more readable now!
+- Reorganized and removed lots of redundant text from all sections, guidelines should be more readable now!
 
 - Removed the FPS limit for Geometry Dash version 2.2 and above.
 
