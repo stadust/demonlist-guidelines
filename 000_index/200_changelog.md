@@ -2,9 +2,17 @@
 
 # Changelog
 
-This webpage archives the various changes the list team has made to the rules and guidelines of the Demon List. At the moment, our only notification system for new changes is in our [Discord server](https://discord.gg/M7bDDQf), so if you are not a member there, it's a good idea to check this section occasionally for new updates.
+This archives the various changes the list team has made to the rules and guidelines of the Demon List. Our main notification system for new changes is in our [Discord server](https://discord.gg/M7bDDQf), so if you are not a member there, it's a good idea to check this section occasionally for new updates.
 
-Changes listed here are ordered from most recent to least recent. **Current version: v2.2**
+Changes listed here are ordered from most recent to least recent. **Current version: v2.3**
+
+## Changes from v2.2 to v2.3 (4/18/2024)
+
+- Reorganized and removed lots of redundant text from all sections, guidelines should be more readable now!
+
+- Removed the FPS limit for Geometry Dash version 2.2 and above.
+
+- Added rules for exploits/pause buffering.
 
 ## Changes from v2.1 to v2.2 (8/14/2023)
 
