@@ -18,6 +18,8 @@ Players must use **Google Drive** to share their raw footage files with us. Raw 
 
 Invalid raw footage links **will** result in a rejected record. However, players may reach out to the list team with a valid raw footage link for any rejected record.
 
+[(Video Tutorial)](https://youtu.be/3LeRPX9bETw?feature=shared)
+
 ## File Size
 
 Raw footage of 5 to 15 minutes at moderately high quality is recommended; however, there is **no maximum or minimum file size or video length** for raw footage to be considered. Recording your entire game session is not required!
