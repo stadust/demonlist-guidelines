@@ -4,14 +4,14 @@
 
 Any record that does not include audible click sounds **will be rejected**.
 
-Additionally, click sounds **must be on their own audio track** in the raw footage. If you are unable to record with multiple audio tracks, you may also choose to record your clicks without desktop audio or use another device. Records with raw footage from livestreams, liveplays, or mobile devices are exempt from this requirement; however, providing a recording with isolated clicks is *strongly recommended*.
+Additionally, click sounds **must be on their own audio track** in the raw footage (i.e., microphone audio and nothing else). If you are unable to record with multiple audio tracks, you may also choose to record your clicks without desktop audio or use another device. Records with raw footage from livestreams, liveplays, or mobile devices are exempt from this requirement; however, providing a recording with isolated clicks is *strongly recommended*.
   
 Below are some examples of effective software for recording both video and clicks, though you may use other programs as well.
   
 For PC:
 
-- OBS
-- ShadowPlay (NVIDIA GeForce)
+- OBS [](https://youtu.be/YNlRUVk3oE8?feature=shared)
+- ShadowPlay / NVIDIA App [](https://youtu.be/IP-3dJw0uMY?feature=shared)
 - AMD ReLive
   
 For Mobile:
