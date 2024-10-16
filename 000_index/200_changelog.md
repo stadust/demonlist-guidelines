@@ -4,7 +4,15 @@
 
 This archives the various changes the list team has made to the rules and guidelines of the Demon List. Our main notification system for new changes is in our [Discord server](https://discord.gg/M7bDDQf), so if you are not a member there, it's a good idea to check this section occasionally for new updates.
 
-Changes listed here are ordered from most recent to least recent. **Current version: v2.3**
+Changes listed here are ordered from most recent to least recent. **Current version: v2.4**
+
+## Changes from v2.3 to v2.4 (10/16/2024)
+
+- Raw footage now requires a 30+ FPS recording with moderate to high video quality.
+
+- Changed level placement timeline to exactly 1 month.
+
+- Added a section for tutorial videos.
 
 ## Changes from v2.2 to v2.3 (4/18/2024)
 

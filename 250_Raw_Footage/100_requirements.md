@@ -2,7 +2,9 @@
 
 # Requirements for Raw Footage{id=requiredraw}
 
-Providing unedited raw footage is ***absolutely required*** for all records. Records submitted without raw footage **will be rejected!**
+Providing unedited raw footage is ***required*** for all records. Records submitted without raw footage **will be rejected!**
+
+Raw footage must be recorded at **30 frames per second or more**. Video quality should be high enough so that the level is easily visible.
   
 ## File Sharing
 
@@ -16,7 +18,9 @@ Players must use **Google Drive** to share their raw footage files with us. Raw 
 
 Invalid raw footage links **will** result in a rejected record. However, players may reach out to the list team with a valid raw footage link for any rejected record.
 
-### File Size
+[(Video Tutorial)](https://youtu.be/3LeRPX9bETw?feature=shared)
+
+## File Size
 
 Raw footage of 5 to 15 minutes at moderately high quality is recommended; however, there is **no maximum or minimum file size or video length** for raw footage to be considered. Recording your entire game session is not required!
 
