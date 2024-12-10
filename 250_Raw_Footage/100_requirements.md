@@ -28,6 +28,6 @@ If your raw footage exceeds the free Google Drive storage limit (15GB), reach ou
 
 ## Live Streams
 
-A link to an **unedited** live stream is acceptable as raw footage. However, it is still recommended to submit a local recording alongside a live stream.
+A link to an **unedited and public** live stream with **chat enabled** is acceptable as raw footage. However, it is still recommended to submit a local recording alongside a live stream. If a live stream is used as raw footage, the player must ensure that **highly audible clicks** are included.
 
 </div>
