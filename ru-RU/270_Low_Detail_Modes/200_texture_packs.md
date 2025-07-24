@@ -1,6 +1,6 @@
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
-# Текстурпаки и шейдеры{id=texture-packs}
+# Текстурпаки и шейдеры{id=texture-packs-and-shadows}
 
 ## Текстурпаки{id=texture-packs}
 
