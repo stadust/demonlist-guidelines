@@ -2,7 +2,7 @@
 
 # Requirements for Raw Footage{id=requiredraw}
 
-Providing unedited raw footage is **_required_** for all records. Records submitted without raw footage **will be rejected!**
+Providing unedited raw footage is **_required_** for all records. Records submitted without raw footage **will be rejected!** Records that are submitted with a live stream as the raw footage will also be rejected!
 
 Raw footage must be recorded at **30 frames per second or more**. Video quality should be high enough so that the level is easily visible.
 
@@ -27,5 +27,4 @@ Stream VODs are **not** a valid form of raw footage, but they can be a great for
 Raw footage of 5 to 15 minutes at moderately high quality is recommended; however, there is **no maximum or minimum file size or video length** for raw footage to be considered. Recording your entire game session is not required!
 
 If your raw footage exceeds the free Google Drive storage limit (15GB), reach out to a member of the list team for help!
-
 </div>
