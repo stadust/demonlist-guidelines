@@ -4,11 +4,7 @@
 
 This archives the various changes the list team has made to the rules and guidelines of the Demon List. Our main notification system for new changes is in our [Discord server](https://discord.gg/M7bDDQf), so if you are not a member there, it's a good idea to check this section occasionally for new updates.
 
-Changes listed here are ordered from most recent to least recent. **Current version: v2.5**
-
-## Changes from v2.4 to v2.5 (5/16/2025){id=changelog-5162025}
-
-- Stream VODs are no longer a valid form of raw footage.
+Changes listed here are ordered from most recent to least recent. **Current version: v2.4**
 
 ## Changes from v2.3 to v2.4 (10/16/2024){id=changelog-10162024}
 

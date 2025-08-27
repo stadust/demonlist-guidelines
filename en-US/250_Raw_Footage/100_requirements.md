@@ -20,8 +20,6 @@ Invalid raw footage links **will** result in a rejected record. However, players
 
 [(Video Tutorial)](https://youtu.be/3LeRPX9bETw?feature=shared)
 
-Stream VODs are **not** a valid form of raw footage, but they can be a great form of _supplementary_ evidence that your completion is legitimate. If you are experiencing lag while streaming and recording simultaneously, try following [this guide](https://docs.google.com/document/d/1ulAtWShfklBaswCuaRdQwWpHGkk9V-dKi6-2veaaS8M/) to optimize your recording software.
-
 ## File Size{id=filesize}
 
 Raw footage of 5 to 15 minutes at moderately high quality is recommended; however, there is **no maximum or minimum file size or video length** for raw footage to be considered. Recording your entire game session is not required!
