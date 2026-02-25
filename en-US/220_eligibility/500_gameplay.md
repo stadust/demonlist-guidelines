@@ -4,6 +4,8 @@
 
 In general, records are not eligible for the list if gameplay is changed in any way from the original level.
 
+Note that the removal of CBF blockers from levels is permitted. However, **it is disallowed to modify parts that are naturally harder with CBF**.
+
 ## Endscreens{id=endscreens}
 
 Records that do not show the **in-game endscreen** after completing a level will not be eligible for the list. The endscreen text should also be _easily readable_ by the viewer. Game crashes during the endscreen animation and other extenuating circumstances may serve as an exception to this rule.
